@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T17:53:09.810Z",
+  "generatedAt": "2026-08-22T18:19:02.987Z",
   "meta": {
     "totalCount": 47,
     "cached": true,
@@ -25,8 +25,6 @@
         "https://ldb-phinf.pstatic.net/20230117_242/16739399124955MmzS_JPEG/E7B61792-76DF-4592-A316-3AE2CDA14745.jpeg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "09:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/471259985"
     },
     {
@@ -45,8 +43,6 @@
       "imageUrl": null,
       "imageUrls": [],
       "microReview": "매콤함과 시원함의 조화 짬뽕 한 그릇",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:30에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/17870463"
     },
     {
@@ -67,8 +63,6 @@
         "https://ldb-phinf.pstatic.net/20260716_80/1784166063806MKlnA_JPEG/ChatGPT_Image_2026%B3%E2_7%BF%F9_16%C0%CF_%BF%C0%C0%FC_10_40_10.jpg"
       ],
       "microReview": "개성 넘치는 간짜장의 매력",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/34321281"
     },
     {
@@ -90,8 +84,6 @@
         "https://naverbooking-phinf.pstatic.net/20260208_63/1770530665670cbA4i_JPEG/%C4%C1%BC%C12.jpg"
       ],
       "microReview": "가성비 최고의 퀄리티 빵집",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1020681119"
     },
     {
@@ -110,8 +102,6 @@
       "imageUrl": null,
       "imageUrls": [],
       "microReview": "즉석떡볶이 중간맛의 환상적인 매콤함",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/36314561"
     },
     {
@@ -133,8 +123,6 @@
         "https://ldb-phinf.pstatic.net/20260521_228/1779322413201q7Kpa_JPEG/%BB%FD%B0%FA%C0%CF%C0%BD%B7%E1_3%C1%BE_%B3%D7%C0%CC%B9%F6%C3%A4%B3%CE.jpg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "09:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1961741615"
     },
     {
@@ -156,8 +144,6 @@
         "https://ldb-phinf.pstatic.net/20250425_81/1745561701768NT0Ed_JPEG/dfuns_2025-04-03_100444.210.jpeg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:30에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/2014158298"
     },
     {
@@ -179,8 +165,6 @@
         "https://ldb-phinf.pstatic.net/20260225_122/1772030239872JXP7s_JPEG/A1_00110.jpg"
       ],
       "microReview": "별내에서 만나는 정통 일본 라멘",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1590757380"
     },
     {
@@ -201,8 +185,6 @@
         "https://ldb-phinf.pstatic.net/20230826_140/1693039373409Hx9dK_JPEG/IMG_0203.jpeg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:30에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1294901233"
     },
     {
@@ -224,8 +206,6 @@
         "https://ldb-phinf.pstatic.net/20260201_128/1769915153389h4t9R_JPEG/image.jpg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "09:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/2099566534"
     },
     {
@@ -247,8 +227,6 @@
         "https://ldb-phinf.pstatic.net/20260530_135/1780138363863d6NKL_JPEG/176581.jpg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1053098412"
     },
     {
@@ -269,8 +247,6 @@
         "https://ldb-phinf.pstatic.net/20220912_9/1662966567230I9m4p_JPEG/Resized_1662950004461.jpeg"
       ],
       "microReview": "아이들과 함께 먹는 짜장떡볶이의 행복",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/37487468"
     },
     {
@@ -292,8 +268,6 @@
         "https://ldb-phinf.pstatic.net/20210806_28/1628247583634GccGi_JPEG/XkEggCXjVjqzkSWhaCLodAG-.jpeg.jpg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:30에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1607577852"
     },
     {
@@ -315,8 +289,6 @@
         "https://ldb-phinf.pstatic.net/20250528_291/1748408005641gIKG7_PNG/%BF%EC%BB%EF%B0%E3%C7%D8%B9%B0%C2%AB%BB%CD%C6%C4%BD%BA%C5%B8.PNG"
       ],
       "microReview": "치즈가 듬뿍 올라간 고소한 매력",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:40에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1839457464"
     },
     {
@@ -337,8 +309,6 @@
         "https://ldb-phinf.pstatic.net/20250428_45/1745815231352qEGPU_JPEG/1745815177255.jpg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/18205789"
     },
     {
@@ -360,8 +330,6 @@
         "https://ldb-phinf.pstatic.net/20260108_212/1767837678638nkx8r_JPEG/2.jpg"
       ],
       "microReview": "특제소스로 완성된 깊은 맛",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1693075776"
     },
     {
@@ -383,8 +351,6 @@
         "https://ldb-phinf.pstatic.net/20211218_216/1639819666151qWcPF_JPEG/IMG_20211218_174249.jpg"
       ],
       "microReview": "진한 국물의 매력적인 우육면 한 그릇",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1091819530"
     },
     {
@@ -406,8 +372,6 @@
         "https://ldb-phinf.pstatic.net/20240206_204/1707192534112L6t4r_JPEG/1707192092486-01.jpeg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "12:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1350041787"
     },
     {
@@ -426,8 +390,6 @@
       "imageUrl": null,
       "imageUrls": [],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/31549365"
     },
     {
@@ -449,8 +411,6 @@
         "https://ldb-phinf.pstatic.net/20260129_272/17696832112001Fjyl_JPEG/%C8%A3%B6%C7_%C7%D1%BB%F32-%C0%CE%BC%E2%BF%EB-sharpen-upscale-2.5x.jpg"
       ],
       "microReview": "바삭한 돈카츠와 얼큰한 국물의 만남",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1277476249"
     },
     {
@@ -472,8 +432,6 @@
         "https://ldb-phinf.pstatic.net/20250305_45/1741141968062HXkkL_JPEG/IMG_9190.jpeg"
       ],
       "microReview": "망고케이크와 블루베리타르트의 조합",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1465998099"
     },
     {
@@ -494,8 +452,6 @@
         "https://ldb-phinf.pstatic.net/20230829_137/1693282401170BAq7o_PNG/%B7%CE%B0%ED_%C1%A4%B9%E6%C7%FC.png"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/815382349"
     },
     {
@@ -517,8 +473,6 @@
         "https://ldb-phinf.pstatic.net/20251125_197/1764012988625qGCHC_PNG/250309-%BA%AF%B0%E6_%281%29.png"
       ],
       "microReview": "매콤달콤한 닭갈비의 진수",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1701488248"
     },
     {
@@ -539,8 +493,6 @@
         "https://ldb-phinf.pstatic.net/20250912_195/1757643868538C59Ob_JPEG/IMG_0533.jpeg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/2009103325"
     },
     {
@@ -562,8 +514,6 @@
         "https://ldb-phinf.pstatic.net/20260330_28/1774868873699O1B7Y_JPEG/IMG_9529.jpeg"
       ],
       "microReview": "디저트와 커피가 어우러진 행복의 맛",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1465606286"
     },
     {
@@ -585,8 +535,6 @@
         "https://ldb-phinf.pstatic.net/20210708_49/1625732856568xE3ns_JPEG/gG9isl4_z-OE-G-ClAGdpoE1.jpg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1270437696"
     },
     {
@@ -607,8 +555,6 @@
         "https://ldb-phinf.pstatic.net/20220723_44/1658561131697822ou_JPEG/%BC%BC%BB%F3%B8%B8%BB%E7%B0%A8%C0%DA%C5%C1.jpg"
       ],
       "microReview": "넓고 깨끗한 공간에서 즐기는 편안함",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "09:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1743715551"
     },
     {
@@ -630,8 +576,6 @@
         "https://ldb-phinf.pstatic.net/20150901_140/1441036117286yv0Qg_JPEG/146873525977015_3.jpeg"
       ],
       "microReview": "매콤낙지볶음과 함께하는 특별한 식사",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:30에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/32723428"
     },
     {
@@ -653,8 +597,6 @@
         "https://ldb-phinf.pstatic.net/20240103_104/1704271223514teles_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5.jpeg.jpg"
       ],
       "microReview": "바삭한 추어튀김과 추어탕의 환상 조합",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "10:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1608592628"
     },
     {
@@ -676,8 +618,6 @@
         "https://ldb-phinf.pstatic.net/20250310_18/1741566812625TVdmQ_JPEG/1000005219.jpg"
       ],
       "microReview": "불향 가득한 매콤한 쭈꾸미의 매력",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1659973930"
     },
     {
@@ -699,8 +639,6 @@
         "https://ldb-phinf.pstatic.net/20240529_263/1716986863030wlXdg_JPEG/1000005351.jpg"
       ],
       "microReview": "다양한 이탈리안 메뉴의 조화로운 만남",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:30에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1257242237"
     },
     {
@@ -722,8 +660,6 @@
         "https://ldb-phinf.pstatic.net/20251205_52/1764862110596eUnfT_JPEG/1000204451.jpg.jpg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "09:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1185074086"
     },
     {
@@ -745,8 +681,6 @@
         "https://ldb-phinf.pstatic.net/20250224_144/1740369600937WuJpy_JPEG/Screenshot_20240717_221941_Instagram.jpg"
       ],
       "microReview": "점심 특선으로 만나는 솥밥정식의 정석",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/11675412"
     },
     {
@@ -768,8 +702,6 @@
         "https://ldb-phinf.pstatic.net/20240415_82/1713168199743jS4V1_JPEG/%B3%D7%C0%CC%B9%F6_%BF%EC%BC%F6%B0%A1%B8%CD%C1%A1_%B9%E8%B3%CA_5.%C6%C7%B8%C5%C3%CB%C1%F8.jpg"
       ],
       "microReview": null,
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1017009765"
     },
     {
@@ -791,8 +723,6 @@
         "https://ldb-phinf.pstatic.net/20260705_245/1783237738085CooaK_JPEG/IMG_4963.jpg"
       ],
       "microReview": null,
-      "businessStatus": "24시간 영업",
-      "businessStatusDetail": "연중무휴",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1073438427"
     },
     {
@@ -814,8 +744,6 @@
         "https://ldb-phinf.pstatic.net/20240229_139/1709180788263zTgpl_JPEG/DSC00793.jpg"
       ],
       "microReview": "심야에도 즐기는 맛있는 커피 한 잔",
-      "businessStatus": "곧 영업 종료",
-      "businessStatusDetail": "03:00에 영업 종료",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1188021960"
     },
     {
@@ -837,8 +765,6 @@
         "https://ldb-phinf.pstatic.net/20230220_102/1676883551156dSNMd_JPEG/KakaoTalk_Photo_2023-02-20-17-59-00_006.jpeg"
       ],
       "microReview": "정갈한 반찬과 함께하는 솥밥 한상",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1962117795"
     },
     {
@@ -860,8 +786,6 @@
         "https://ldb-phinf.pstatic.net/20260331_45/1774948162139RLiMz_PNG/%BA%B0%B3%BB%C1%A107.png"
       ],
       "microReview": "정갈한 반찬과 함께하는 행복한 한 끼",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/2027381725"
     },
     {
@@ -882,8 +806,6 @@
         "https://ldb-phinf.pstatic.net/20200516_235/1589631317112fLrcP_JPEG/UWgOmGxUG9BFGlAeC1OftlsI.jpg"
       ],
       "microReview": "부드러운 돼지갈비 추가 주문 필수",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:30에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/17870506"
     },
     {
@@ -905,8 +827,6 @@
         "https://ldb-phinf.pstatic.net/20200415_194/1586959448500qHE8U_JPEG/KCcOApZLEVn0lMcJPdzCihze.jpg"
       ],
       "microReview": "따뜻한 온기 그대로 포장된 피자",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "16:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1982178104"
     },
     {
@@ -928,8 +848,6 @@
         "https://ldb-phinf.pstatic.net/20260126_22/1769437457420Y3oJL_JPEG/1769437340344.jpg"
       ],
       "microReview": "특별한 날엔 간장게장과 아구찜 세트",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/2039957055"
     },
     {
@@ -950,8 +868,6 @@
         "https://ldb-phinf.pstatic.net/20181125_20/1543137717474hfqvP_JPEG/bboi0yvJD8LFEKY9zlquFm0q.jpg"
       ],
       "microReview": "김치찌개까지 완벽한 한 상",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1004323414"
     },
     {
@@ -973,8 +889,6 @@
         "https://ldb-phinf.pstatic.net/20210122_4/1611303151984BMbEV_JPEG/nk0jn6fC3UUbauFOR-gkSIoN.jpeg.jpg"
       ],
       "microReview": null,
-      "businessStatus": "오늘 휴무",
-      "businessStatusDetail": "매주 일요일 휴무",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1356444316"
     },
     {
@@ -996,8 +910,6 @@
         "https://ldb-phinf.pstatic.net/20190321_33/1553140534830X9usN_JPEG/6FsTf1C83GLwHe7krBhbkAoI.jpg"
       ],
       "microReview": "쫄깃한 감자옹심이의 쫀득한 매력",
-      "businessStatus": "오늘 휴무",
-      "businessStatusDetail": "매주 일요일 휴무",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1057035999"
     },
     {
@@ -1019,8 +931,6 @@
         "https://ldb-phinf.pstatic.net/20220617_207/1655397236370a8wDq_JPEG/2E09306B-BB48-4C84-ACD1-A847DE944F24.jpeg"
       ],
       "microReview": "참숯향 가득 입맛 사로잡는 명품 족발",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "12:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1568283106"
     },
     {
@@ -1042,8 +952,6 @@
         "https://ldb-phinf.pstatic.net/20251020_56/17609690126116qTNg_JPEG/IMG_9348.jpeg"
       ],
       "microReview": null,
-      "businessStatus": "영업 전",
-      "businessStatusDetail": "08:30에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1373390609"
     },
     {
@@ -1062,8 +970,6 @@
       "imageUrl": null,
       "imageUrls": [],
       "microReview": "최고 크기의 통통한 민물장어 맛집",
-      "businessStatus": "영업 종료",
-      "businessStatusDetail": "11:00에 영업 시작",
       "naverMapUrl": "https://map.naver.com/p/entry/place/35425415"
     }
   ]
