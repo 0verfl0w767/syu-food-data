@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T11:12:48.440Z",
+  "generatedAt": "2026-09-05T11:40:20.095Z",
   "meta": {
     "placeCount": 48,
-    "placesWithMenus": 47,
-    "totalMenuCount": 804,
-    "notice": "네이버 플레이스에 텍스트로 등록된 메뉴만 제공하며 실제 메뉴와 가격은 다를 수 있습니다."
+    "placesWithMenus": 48,
+    "totalMenuCount": 880,
+    "notice": "네이버 플레이스 등록 정보와 수동 확인을 통해 수집한 메뉴이며 실제 메뉴는 다를 수 있습니다."
   },
   "places": {
     "11675412": {
@@ -130,7 +130,15 @@
       "menus": [
         {
           "name": "짜장면",
-          "price": 5000,
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "쟁반볶음짜장",
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -138,7 +146,7 @@
         },
         {
           "name": "간짜장",
-          "price": 6500,
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -146,7 +154,15 @@
         },
         {
           "name": "짬뽕",
-          "price": 6500,
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "쟁반볶음짬뽕",
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -154,7 +170,71 @@
         },
         {
           "name": "우동",
-          "price": 6500,
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "울면",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "볶음밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "매운볶음밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "짜장밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "잡채밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "소고기덮밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "고추덮밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "버섯덮밥",
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -162,7 +242,175 @@
         },
         {
           "name": "짬뽕밥",
-          "price": 7000,
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "우동밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "치킨탕수육 대",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "치킨탕수육 중",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "치킨탕수육 소",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "버섯탕수육 대",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "버섯탕수육 중",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "버섯탕수육 소",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "소고기탕수육 대",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "소고기탕수육 중",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "소고기탕수육 소",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "깐풍기",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "라조기",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "군만두",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "야채춘권",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "지마구",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "사모사",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "양지쌀국수",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "빙수냉면",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "콩국수",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "공기밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "음료수",
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -916,15 +1164,103 @@
       "menus": [
         {
           "name": "즉석모듬(2~3인분)",
-          "price": 11000,
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
           "recommended": false
         },
         {
-          "name": "즉석떡볶이",
-          "price": 7500,
+          "name": "즉석떡볶이(기본)",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "라면",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "우동",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "쫄면",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "오뎅",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "야채",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "당면",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "떡사리",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "계란",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "도깨비만두",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "슬라이스치즈",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "볶음밥",
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -4810,18 +5146,18 @@
         },
         {
           "name": "차돌 육개장라면 정식",
-          "price": 10000,
+          "price": null,
           "priceType": null,
-          "description": "차돌 육개장라면 + 공기밥반공기",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260324_64/1774337439892oRkJM_JPEG/%C7%E3%A4%C7%A4%A4%B9%E4.jpg",
-          "recommended": true
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
         },
         {
           "name": "제육덮밥",
-          "price": 8500,
+          "price": null,
           "priceType": null,
-          "description": "고추장/간장 선택!",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260324_114/1774337610693jadBW_JPEG/%C7%E3%A4%C7%A4%A4%B9%E4.jpg",
+          "description": null,
+          "imageUrl": null,
           "recommended": false
         },
         {
@@ -4903,13 +5239,286 @@
           "description": "우동/라면/볶음밥",
           "imageUrl": "https://ldb-phinf.pstatic.net/20250312_153/1741749879740MjrQi_PNG/%B4%DFE.png",
           "recommended": true
+        },
+        {
+          "name": "스팸김치덮밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "참치김치덮밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "삼고비",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "참고비",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "치코밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "뚝배기 참치김치찌개정식",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "뚝배기 스팸김치찌개정식",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "닭갈비 정식",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "삼겹살 정식",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
         }
       ],
       "menuImageAvailable": true
     },
     "1743715551": {
       "placeName": "세상만사 감자탕",
-      "menus": [],
+      "menus": [
+        {
+          "name": "전골(황) 대",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "전골(황) 중",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "전골(황) 소",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "뼈찜 대",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "뼈찜 중",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "뼈찜 소",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "뼈해장국",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "뼈특해장국",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "순대국",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "돈까스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "소내장탕",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "뼈추가",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "우거지",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "감자",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "당면사리",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "라면사리",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "수제비",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "볶음밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "공기밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "어린이주먹밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "소주",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "막걸리",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "맥주",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "음료수",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        },
+        {
+          "name": "청하",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false
+        }
+      ],
       "menuImageAvailable": false
     },
     "1839457464": {
