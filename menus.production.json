@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T12:44:57.711Z",
+  "generatedAt": "2026-09-05T12:59:11.597Z",
   "meta": {
     "placeCount": 48,
     "placesWithMenus": 48,
-    "totalMenuCount": 880,
+    "totalMenuCount": 904,
     "notice": "네이버 플레이스 등록 정보와 수동 확인을 통해 수집한 메뉴이며 실제 메뉴는 다를 수 있습니다."
   },
   "places": {
@@ -589,13 +589,253 @@
       "placeName": "하늘지기",
       "menus": [
         {
-          "name": "하늘정식(치킨까스+쫄면+주먹밥)",
-          "price": 11000,
+          "name": "하늘정식 (치킨까스+쫄면+주먹밥)",
+          "price": null,
           "priceType": null,
-          "description": "수제과일소스 사용",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20250428_56/1745815978386DI2yk_JPEG/1000005262.jpg",
-          "recommended": true,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
           "category": "밥류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "돈정식 (돈까스+쫄면+주먹밥)",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "치킨까스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "튀김류",
+          "cuisine": "일식"
+        },
+        {
+          "name": "돈까스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "튀김류",
+          "cuisine": "일식"
+        },
+        {
+          "name": "콩까스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "튀김류",
+          "cuisine": "일식"
+        },
+        {
+          "name": "치즈돈까스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "튀김류",
+          "cuisine": "일식"
+        },
+        {
+          "name": "생선까스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "튀김류",
+          "cuisine": "일식"
+        },
+        {
+          "name": "김치찌개",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "찌개·전골류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "참치김치찌개",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "찌개·전골류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "들깨순두부찌개",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "찌개·전골류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "버섯순두부찌개",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "찌개·전골류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "청국장",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "찌개·전골류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "부대찌개",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "찌개·전골류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "된장찌개",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "찌개·전골류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "제육덮밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "치즈닭철판",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "볶음·찜류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "소고기불고기",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "고기·구이류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "돌솥비빔밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "비빔밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "김치볶음밥",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "오므라이스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "치킨도리아",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "쫄면",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "면류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "우동",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "면류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "라면",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "면류",
           "cuisine": "한식"
         }
       ],
@@ -1004,7 +1244,7 @@
           "imageUrl": null,
           "recommended": false,
           "category": "밥류",
-          "cuisine": "중식"
+          "cuisine": "양식"
         },
         {
           "name": "삼선볶음밥",
@@ -3628,7 +3868,7 @@
           "imageUrl": "https://ldb-phinf.pstatic.net/20250421_112/1745197272640Y4iot_JPEG/IMG_5374.jpg",
           "recommended": false,
           "category": "밥류",
-          "cuisine": "카페·디저트"
+          "cuisine": "양식"
         },
         {
           "name": "쉬림프 아보카도 콥샐러드",
@@ -4416,7 +4656,7 @@
           "imageUrl": "https://ldb-phinf.pstatic.net/20260129_272/1769683415356oawJN_JPEG/%BF%C0%B9%AB%B6%F3%C0%CC%BD%BA.jpg",
           "recommended": true,
           "category": "밥류",
-          "cuisine": "일식"
+          "cuisine": "양식"
         },
         {
           "name": "카라이라멘",
@@ -4455,7 +4695,7 @@
           "description": "호또의 모든 튀김 메뉴를 한번에! (안심1p,치즈1p,가라아게3p)",
           "imageUrl": "https://ldb-phinf.pstatic.net/20260129_290/1769683446262cLdd1_JPEG/%B8%F0%B5%EB%B5%B7%B1%EE%BD%BA.jpg",
           "recommended": false,
-          "category": "고기·구이류",
+          "category": "튀김류",
           "cuisine": "일식"
         },
         {
@@ -5965,7 +6205,7 @@
           "description": null,
           "imageUrl": "https://ldb-phinf.pstatic.net/20220102_130/1641124364220W129h_JPEG/B430C662-DBF1-447B-B656-93C1C0A307A2.jpeg",
           "recommended": false,
-          "category": "튀김류",
+          "category": "밥류",
           "cuisine": "양식"
         },
         {
