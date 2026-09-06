@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T18:34:18.285Z",
+  "generatedAt": "2026-09-06T12:40:09.003Z",
   "meta": {
-    "placeCount": 48,
-    "placesWithMenus": 48,
-    "totalMenuCount": 904,
+    "placeCount": 47,
+    "placesWithMenus": 47,
+    "totalMenuCount": 940,
     "notice": "네이버 플레이스 등록 정보와 수동 확인을 통해 수집한 메뉴이며 실제 메뉴는 다를 수 있습니다."
   },
   "places": {
@@ -494,26 +494,6 @@
           "imageUrl": null,
           "recommended": false,
           "category": "면류",
-          "cuisine": "중식"
-        },
-        {
-          "name": "공기밥",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "밥류",
-          "cuisine": "중식"
-        },
-        {
-          "name": "음료수",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "음료류",
           "cuisine": "중식"
         }
       ],
@@ -1696,116 +1676,6 @@
           "imageUrl": null,
           "recommended": false,
           "category": "분식류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "라면",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "우동",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "쫄면",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "오뎅",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "분식류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "야채",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "분식류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "당면",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "떡사리",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "분식류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "계란",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "분식류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "도깨비만두",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "만두류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "슬라이스치즈",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "분식류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "볶음밥",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "밥류",
           "cuisine": "한식"
         }
       ],
@@ -3327,33 +3197,773 @@
       "placeName": "샌두 삼육대점",
       "menus": [
         {
-          "name": "리뷰이벤트 (아이스아메리카노)",
-          "price": 800,
+          "name": "나홀로든든 샌드위치 + 음료/스프",
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
           "recommended": false,
-          "category": "음료류",
+          "category": "세트·기타",
           "cuisine": "양식"
         },
         {
-          "name": "리뷰이벤트(복숭아아이스티)",
-          "price": 600,
+          "name": "간편든든 싱글랩/웜랩 + 음료/스프",
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
           "recommended": false,
-          "category": "음료류",
+          "category": "세트·기타",
+          "cuisine": "양식"
+        },
+        {
+          "name": "다이어트 샐러드/포케 + 음료/스프",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "세트·기타",
+          "cuisine": "양식"
+        },
+        {
+          "name": "슬림누들 누들샐러드 + 음료/스프",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "세트·기타",
+          "cuisine": "양식"
+        },
+        {
+          "name": "단백질충전 식단도시락 + 음료/스프",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "세트·기타",
+          "cuisine": "양식"
+        },
+        {
+          "name": "수비드닭다리살 포케",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "수비드 닭가슴살 포케",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "오리훈제 포케",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "육회 포케",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "우삼겹 포케",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "생연어 포케",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "수비드 닭다리살 도시락",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "수비드 닭가슴살 도시락",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "들기름 메밀면 샐러드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "치킨텐더 샐러드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "구운버섯 샐러드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "구운쉬림프 샐러드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "닭가슴살고구마 샐러드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "리코타치즈 샐러드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "샐러드류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "크리스피치킨 싱글랩",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "스파이시치킨 싱글랩",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "스테이크앤치즈 싱글랩",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "생연어크림치즈 싱글랩",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "오리훈제 웜랩",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "소불고기 웜랩",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "우삼겹 웜랩",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "갈릭쉬림프 웜랩",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
           "cuisine": "양식"
         },
         {
           "name": "햄치즈에그 샌드위치",
-          "price": 7000,
+          "price": null,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260226_32/1772071601589nl8ir_JPEG/%B3%D7%C0%CC%B9%F6%C7%C3%B7%B9%C0%CC%BD%BA_%BB%F7%B5%E5%C0%A7%C4%A116.jpg",
+          "imageUrl": null,
           "recommended": false,
           "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "단호박크림치즈 샌드위치",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "치킨데리야끼 샌드위치",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "에그베이컨 샌드위치",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "리코타크랜베리 샌드위치",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "에그달콤 스프레드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "크림치즈단호박 스프레드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "리코타허니 스프레드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "꿀고구마 스프레드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "양송이 크림스프",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "국·탕류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "단호박 크림스프",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "국·탕류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "햄치즈 카야 토스트",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "카야 버터 토스트",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "불고기 치즈 토스트",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "빵·샌드위치류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "리얼 수박주스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "리얼 수박주스 1L 보틀",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "생딸기주스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "꿀토마토 주스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "생바나나주스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "아메리카노",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "카페라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "바닐라라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "돌체라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "헤이즐넛 오트 콜드브루",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "콜드브루",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "콜드브루 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "콜드브루 바닐라라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "콜드브루 돌체라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "디카페인 콜드브루",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "디카페인 콜드브루 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "디카페인 콜드브루 바닐라라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "디카페인 콜드브루 돌체라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "대용량 1L 보틀 (커피)",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "대용량 1L 보틀 (라떼)",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "대용량 1L 보틀 (차&에이드)",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "대용량 1L 보틀 (주스&스무디)",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "미숫가루 (우유)",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "냉마라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "제주말차라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "딸기라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "붓기 쏙 차",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "복숭아 아이스티",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "레몬에이드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "자몽에이드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "청포도에이드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "냉마스무디",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "미숫가루 스무디",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "제주말차스무디",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "플레인요거트 스무디",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "딸기요거트 스무디",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
           "cuisine": "양식"
         }
       ],
@@ -5803,122 +6413,6 @@
       ],
       "menuImageAvailable": true
     },
-    "1568283106": {
-      "placeName": "가가족족 별내본점",
-      "menus": [
-        {
-          "name": "참숯 명품 족발",
-          "price": 41000,
-          "priceType": null,
-          "description": "앞발 변경 시: 43,000원, 인기 메뉴",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_266/1667925749832lTuVe_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%283%29.jpg",
-          "recommended": true,
-          "category": "고기·구이류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "명품 튀김족발",
-          "price": 51000,
-          "priceType": null,
-          "description": "앞발로 변경 시 54,000원",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_261/1667925783923OlqaS_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%2813%29.jpg",
-          "recommended": true,
-          "category": "튀김류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "명품 불튀족",
-          "price": 48000,
-          "priceType": null,
-          "description": "앞발 변경 시: 51,000원",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_215/1667926041420AiQys_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%2815%29.jpg",
-          "recommended": true,
-          "category": "고기·구이류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "정통 매콤 불족발",
-          "price": 43000,
-          "priceType": null,
-          "description": "앞발 변경 시 46,000원. (맵기조절가능) 기본=신라면정도",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_203/1667926062408pTrWq_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%2812%29.jpg",
-          "recommended": true,
-          "category": "고기·구이류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "정통 마늘 족발",
-          "price": 43000,
-          "priceType": null,
-          "description": "앞발 변경 시 46,000원",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_80/1667926079472S09vt_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%286%29.jpg",
-          "recommended": true,
-          "category": "고기·구이류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "프리미엄 보쌈(중)",
-          "price": 41000,
-          "priceType": null,
-          "description": "엄선된 재료로 만든 프리미엄 보쌈 (대) 44,000원",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_219/16679261939614s44e_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%281%29.jpg",
-          "recommended": true,
-          "category": "고기·구이류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "명품 마늘 보쌈(중)",
-          "price": 43000,
-          "priceType": null,
-          "description": "특별한 날을 더욱 특별하게, 정통 마늘보쌈을 즐겨보세요. (대) 46,000원",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_279/1667926766756wfYpl_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%284%29.jpg",
-          "recommended": false,
-          "category": "고기·구이류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "특선 프리미엄 불보쌈(중)",
-          "price": 43000,
-          "priceType": null,
-          "description": "매콤달콤한 특제 소스와 프리미엄 보쌈의 환상적인 조화 (대) 46,000원",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_205/1667926822006e1Pff_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%287%29.jpg",
-          "recommended": false,
-          "category": "고기·구이류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "정통 쟁반막국수(중)",
-          "price": 8000,
-          "priceType": null,
-          "description": "푸짐한 양으로 즐기는 정통 쟁반막국수 (대) 12,000원",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_296/1667926223354pBh8a_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%282%29.jpg",
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "인기 참치마요 주먹밥",
-          "price": 6000,
-          "priceType": null,
-          "description": "직접 만들어 더 맛있는 재미! 정통 참치마요 주먹밥",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_99/1667926956827Phj9P_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%288%29.jpg",
-          "recommended": false,
-          "category": "밥류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "정통 족발 볶음밥",
-          "price": 9000,
-          "priceType": null,
-          "description": "쫄깃한 족발과 밥의 환상적인 조화, 인기 메뉴",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_99/1667926904912tVgEz_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%2816%29.jpg",
-          "recommended": false,
-          "category": "밥류",
-          "cuisine": "한식"
-        }
-      ],
-      "menuImageAvailable": true
-    },
     "1590757380": {
       "placeName": "토리코코로 별내본점",
       "menus": [
@@ -6936,146 +7430,6 @@
           "imageUrl": null,
           "recommended": false,
           "category": "국·탕류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "뼈추가",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "세트·기타",
-          "cuisine": "한식"
-        },
-        {
-          "name": "우거지",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "세트·기타",
-          "cuisine": "한식"
-        },
-        {
-          "name": "감자",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "세트·기타",
-          "cuisine": "한식"
-        },
-        {
-          "name": "당면사리",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "라면사리",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "수제비",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "볶음밥",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "밥류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "공기밥",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "밥류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "어린이주먹밥",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "밥류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "소주",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "주류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "막걸리",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "주류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "맥주",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "주류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "음료수",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "음료류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "청하",
-          "price": null,
-          "priceType": null,
-          "description": null,
-          "imageUrl": null,
-          "recommended": false,
-          "category": "주류",
           "cuisine": "한식"
         }
       ],
@@ -9293,7 +9647,7 @@
           "description": null,
           "imageUrl": "https://ldb-phinf.pstatic.net/20250927_22/1758946778305uM45f_PNG/%BB%EF%C6%E4%C0%CE_%C5%E4%C1%D2_%BD%BA%C7%C1%B8%B0%C5%E4%C1%D2_%B8%F0%BD%BA%C4%AB%C5%E4_%BD%BA%C7%AA%B8%B8%C5%D7.png",
           "recommended": false,
-          "category": "국·탕류",
+          "category": "볶음·찜류",
           "cuisine": "한식"
         },
         {
