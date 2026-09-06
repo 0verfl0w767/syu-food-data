@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T12:40:09.003Z",
+  "generatedAt": "2026-09-06T15:07:27.774Z",
   "meta": {
     "placeCount": 47,
     "placesWithMenus": 47,
-    "totalMenuCount": 940,
+    "totalMenuCount": 1089,
     "notice": "네이버 플레이스 등록 정보와 수동 확인을 통해 수집한 메뉴이며 실제 메뉴는 다를 수 있습니다."
   },
   "places": {
@@ -1931,6 +1931,286 @@
           "price": 3500,
           "priceType": null,
           "description": "코코넛 향과 초코 맛이 어우러진 우유가 들어 간 커피입니다. 이곳에서만 드실 수 있어요!",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "복숭아 아이스티",
+          "price": null,
+          "priceType": null,
+          "description": "L / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "레몬 아이스티",
+          "price": null,
+          "priceType": null,
+          "description": "L / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "체리에이드",
+          "price": null,
+          "priceType": null,
+          "description": "L / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "노을에이드(라즈베리)",
+          "price": null,
+          "priceType": null,
+          "description": "L / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "바다에이드(라임)",
+          "price": null,
+          "priceType": null,
+          "description": "L / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "레모네이드",
+          "price": null,
+          "priceType": null,
+          "description": "L / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "자몽에이드",
+          "price": null,
+          "priceType": null,
+          "description": "L / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "청포도에이드",
+          "price": null,
+          "priceType": null,
+          "description": "L / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "블루 레모네이드",
+          "price": null,
+          "priceType": null,
+          "description": "L / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "유자 애플티",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "자몽 블랙티",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "유자차",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "레몬티",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "한라봉 오미자차",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "홍차",
+          "price": null,
+          "priceType": null,
+          "description": "얼그레이 / 잉글리시 브렉퍼스트 · M / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "허브 티",
+          "price": null,
+          "priceType": null,
+          "description": "캐모마일 / 루이보스 바닐라 / 페퍼민트 · M / XL",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "초코 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "헤즐넛 초코 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "녹차 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "오곡 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "블루베리 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "흑당 밀크티",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "연유 밀크티",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "더블 초콜릿",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "토피넛 초콜릿",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "민트 초콜릿",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "고구마 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "로열 밀크티",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
           "imageUrl": null,
           "recommended": false,
           "category": "음료류",
@@ -5535,28 +5815,8 @@
       "placeName": "하이오커피 삼육대점",
       "menus": [
         {
-          "name": "[패스오더전용] 100원 아메리카노",
-          "price": 100,
-          "priceType": null,
-          "description": "패스오더 앱 설치하면, 최소 주문 금액 없이 100원에 커피 주문+1,500원 쿠폰까지",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20240223_34/17086440959324jJ0K_PNG/%B8%DE%B4%BA.png",
-          "recommended": true,
-          "category": "음료류",
-          "cuisine": "카페·디저트"
-        },
-        {
-          "name": "바다소금라떼",
-          "price": 4200,
-          "priceType": null,
-          "description": "깔끔한 콜드블루커피와 단짠의조화",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20230826_285/1693039540701Xv418_JPEG/IMG_0239.jpeg",
-          "recommended": true,
-          "category": "음료류",
-          "cuisine": "카페·디저트"
-        },
-        {
           "name": "아메리카노",
-          "price": 2000,
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -5566,7 +5826,7 @@
         },
         {
           "name": "믹스커피",
-          "price": 2500,
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -5575,8 +5835,8 @@
           "cuisine": "카페·디저트"
         },
         {
-          "name": "카페라떼",
-          "price": 2800,
+          "name": "카페 라떼",
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -5586,7 +5846,457 @@
         },
         {
           "name": "카푸치노",
-          "price": 2800,
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "바닐라 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "헤이즐넛 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "하이슈페너",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "카라멜 마끼아또",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "카페 모카",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "콜드브루",
+          "price": null,
+          "priceType": null,
+          "description": "디카페인 선택 가능",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "연유라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "흑당 밀크 버블린",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "타로 밀크 버블린",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "홍차 밀크 버블린",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "코코넛",
+          "price": null,
+          "priceType": null,
+          "description": "커피 / 밀크 / 망고",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "딸기 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "초코 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "고구마 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "녹차 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "홍차 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "민트초코칩 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "블루베리 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "미숫가루 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "플레인 요거트 스무디",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "딸기 요거트 스무디",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "망고 요거트 스무디",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "블루베리 요거트 스무디",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "녹차 프라페",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "자바초코칩 프라페",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "민트초코칩 프라페",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "폭탄초코 프라페",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "쿠키 & 크림 프라페",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "딸기 스노잉",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "망고 스노잉",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "블루베리 스노잉",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "바다 소금 커피",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "바다 소금 라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "청포도 에이드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "자몽 에이드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "블루레몬 에이드",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "아이스티 복숭아",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "캐모마일",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "페퍼민트",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "루이보스",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "얼그레이",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "실론",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "자몽차",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "레몬차",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "유자차",
+          "price": null,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -8969,11 +9679,241 @@
       "placeName": "애버그린 ae:ver green",
       "menus": [
         {
-          "name": "아이스티",
-          "price": 5900,
+          "name": "카라멜러버",
+          "price": null,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20250416_15/1744780998496fxyQN_JPEG/IMG_4912.jpeg",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "쥬시홀릭",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "구수",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "보통",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "버번 디카페인",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "페루 게이샤",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "수제그릭요거트",
+          "price": null,
+          "priceType": null,
+          "description": "플레인 / 초코·말차 / 딸기·망고·블루베리",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "디저트류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "수제 드링킹 요거트",
+          "price": null,
+          "priceType": null,
+          "description": "플레인 / 딸기·망고·블루베리·사과",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "디저트류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "과일청 에이드",
+          "price": null,
+          "priceType": null,
+          "description": "자몽 / 레몬 패션후르츠",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "티에이드",
+          "price": null,
+          "priceType": null,
+          "description": "자몽자스민",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "말차라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "루이보스소이라떼",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "포트넘앤메이슨",
+          "price": null,
+          "priceType": null,
+          "description": "퀸앤 / 러시안카라반 / 로즈포총 / 랍상소총 / 포트메이슨 / 얼그레이클래식",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "마리아쥬프레르",
+          "price": null,
+          "priceType": null,
+          "description": "루즈오페라 / 에로스 / 플렌류 / 웨딩임페리얼 / 마르코폴로 / 얼그레이프렌치블루",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "TWG",
+          "price": null,
+          "priceType": null,
+          "description": "게이샤블러썸 / 실버문 / 1837 / 미드나잇아워 / 오뜨꾸뛰르 / 나폴레옹",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "녹차",
+          "price": null,
+          "priceType": null,
+          "description": "제주 유기농녹차 / 호지차",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "백차",
+          "price": null,
+          "priceType": null,
+          "description": "백모단",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "청차",
+          "price": null,
+          "priceType": null,
+          "description": "철관음",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "홍차",
+          "price": null,
+          "priceType": null,
+          "description": "우바 / 얼그레이",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "허브차",
+          "price": null,
+          "priceType": null,
+          "description": "루이보스 / 캐모마일 / 페퍼민트",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "블렌드 티",
+          "price": null,
+          "priceType": null,
+          "description": "안녕, 벚꽃 / 로즈 자스민 / 망고 우롱 / 바닐라 루이보스",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "K-tea",
+          "price": null,
+          "priceType": null,
+          "description": "대추차 / 생강차 / 유자차",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "아이스티",
+          "price": null,
+          "priceType": null,
+          "description": "복숭아딸기 / 망고 / 패션후르츠 / 리치 · 홍차 / 녹차 / 루이보스",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "캐모마일 애사비",
+          "price": null,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
           "recommended": false,
           "category": "음료류",
           "cuisine": "카페·디저트"
@@ -9678,10 +10618,560 @@
       "menus": [
         {
           "name": "아메리카노",
-          "price": 1200,
+          "price": null,
           "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260202_55/1769993225109DTqsK_JPEG/IMG_4017.jpeg",
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "꿀 커피",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "카페 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "헤이즐넛 커피",
+          "price": null,
+          "priceType": null,
+          "description": "S / M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "헤이즐넛 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S / M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "헤이즐넛 모카",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "베트남 연유 커피",
+          "price": null,
+          "priceType": null,
+          "description": "S / M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "바나나 달달 커피",
+          "price": null,
+          "priceType": null,
+          "description": "S / M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "꿀/바닐라/아몬드 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "카페 모카",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "믹스커피",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "솔티드 카라멜 마키아토",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "아샷추 복숭아 아이스티",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "아인슈페너 커피",
+          "price": null,
+          "priceType": null,
+          "description": "S",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "아인슈페너 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "바닐라 크럼블 아이스크림 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "콜드브루",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "콜드브루 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "돌체 콜드브루 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "레몬 토닉 콜드브루",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "달고나 콜드브루 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "초코 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "고구마 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "그린티 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "토피넛 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "S / M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "곡물 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "로얄 밀크티",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "아몬드 밀크티",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "달고나 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "딸기 라떼",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "포도 사과젤리 크러쉬",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "플레인 요거트 스무디",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "요거트 스무디 (딸기/블루베리)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "밀크 쉐이크",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "밀크 쉐이크 (딸기/솔티드 카라멜/피넛버터/초코)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "곡물 쉐이크",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "리얼 스무디 (망고/배/복숭아)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "콜드브루 커피 프라페",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "프라페 (자바칩/피스타치오 아몬드/민트 초코)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "프라페 (오레오 초코/그린티/초코/바나나 초코칩)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "딸기 쿠키 프라페",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "유자 티/에이드",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "인크레드불",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "아이스티 (복숭아/제로 복숭아)",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "청포도 에이드",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "티 (레몬밤 민트/히비스커스 유자)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "티/에이드 (한라봉/자몽/청귤/블루레몬)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "에이드 (제로 체리콕/깔라만시)",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "장수 오미자 티/에이드",
+          "price": null,
+          "priceType": null,
+          "description": "M / L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "자몽 허니 블랙티",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "지리산 청매실티",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "매머드 에이드 (자몽+오렌지+레몬)",
+          "price": null,
+          "priceType": null,
+          "description": "L",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "티 (얼그레이/레몬&오렌지/캐모마일/페퍼민트)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "티 (머스캣 그린/오렌지 루이보스/애플 히비스커스)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "전통차 (애플 모과/나주 배숙/쌍화)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
+        },
+        {
+          "name": "주스 (수박/파인애플)",
+          "price": null,
+          "priceType": null,
+          "description": "M",
+          "imageUrl": null,
           "recommended": false,
           "category": "음료류",
           "cuisine": "카페·디저트"
