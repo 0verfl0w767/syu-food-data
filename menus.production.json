@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T15:07:27.774Z",
+  "generatedAt": "2026-09-08T12:28:46.654Z",
   "meta": {
-    "placeCount": 47,
-    "placesWithMenus": 47,
-    "totalMenuCount": 1089,
+    "placeCount": 45,
+    "placesWithMenus": 45,
+    "totalMenuCount": 1061,
     "notice": "네이버 플레이스 등록 정보와 수동 확인을 통해 수집한 메뉴이며 실제 메뉴는 다를 수 있습니다."
   },
   "places": {
@@ -2219,252 +2219,6 @@
       ],
       "menuImageAvailable": true
     },
-    "815382349": {
-      "placeName": "맘스터치 삼육대점",
-      "menus": [
-        {
-          "name": "갓빠삭빅싸이순살",
-          "price": 15900,
-          "priceType": null,
-          "description": "1시간이 지나도 무너지지 않는 극강의 바삭함을 지닌 순살치킨",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260723_230/17847726061105bUpL_JPEG/%B0%AB%BA%FC%BB%E8%BA%F2%BD%CE%C0%CC%BC%F8%BB%EC%B7%B9%B1%D6%B7%AF.jpg",
-          "recommended": false,
-          "category": "튀김류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "핫치즈밤빅싸이순살",
-          "price": 18500,
-          "priceType": null,
-          "description": "핫치즈치킨 위에 피자치즈 폭탄을 추가해, 맛과 비주얼을 모두 극대화한 스페셜 메뉴",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260522_86/1779425174748rHGWS_JPEG/%C7%D6%C4%A1%C1%EE%B9%E3%28%BC%F8%BB%EC%29_%C0%DA%BB%E7%BE%DB.jpg",
-          "recommended": false,
-          "category": "튀김류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "매직풍싸이버거",
-          "price": 6900,
-          "priceType": null,
-          "description": "매콤고소 피넛버터 소스와 쏨땀 오이피클의 이색적인 조화를 느낄 수 있는 싸이버거",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260521_281/1779352565762Int5R_JPEG/%B8%C5%C1%F7%C7%B3%BD%CE%C0%CC%B9%F6%B0%C5.jpg",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "매직풍비프버거",
-          "price": 7400,
-          "priceType": null,
-          "description": "매콤고소 피넛버터 소스와 쏨땀 오이피클의 이색적인 조화를 느낄 수 있는 비프버거",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260521_145/1779352632889tNHMh_JPEG/%B8%C5%C1%F7%C7%B3%BA%F1%C7%C1%B9%F6%B0%C5.jpg",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "매직풍빅싸이순살",
-          "price": 15500,
-          "priceType": null,
-          "description": "달콤한 파인애플 소스에 고소한 코코넛플레이크를 더한 이색적인 치킨",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260521_158/1779352688607iBRqm_JPEG/%B8%C5%C1%F7%C7%B3_%BA%F2%BD%CE%C0%CC%BC%F8%BB%EC.jpg",
-          "recommended": false,
-          "category": "튀김류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "당근빵",
-          "price": 2600,
-          "priceType": null,
-          "description": "진짜 당근 비주얼 속에 달콤고소한 당근크림치즈가 가득 들어있는 당근빵",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260521_244/1779352860115lRHXl_JPEG/%B4%E7%B1%D9%BB%A7.jpg",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "후덕죽싸이버거",
-          "price": 6400,
-          "priceType": null,
-          "description": "고추기름의 매콤함에 토마토의 단맛, 두반장의 감칠맛이 어우러진 싸이버거",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260521_191/1779352154189Rkepl_JPEG/%C8%C4%B4%F6%C1%D7%BD%CE%C0%CC%B9%F6%B0%C5.jpg",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "후덕죽통새우버거",
-          "price": 6700,
-          "priceType": null,
-          "description": "은은한 새콤함이 느껴지는 크림소스로 부드럽게 풍미를 업시킨 중화풍 새우버거",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260521_152/1779352394084BDXzS_JPEG/%C8%C4%B4%F6%C1%D7%C5%EB%BB%F5%BF%EC%B9%F6%B0%C5.jpg",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "후덕죽빅싸이순살",
-          "price": 15500,
-          "priceType": null,
-          "description": "궁극의 맵.단.짠.신 어향소스로 오감을 만족시키는 중화풍 치킨",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260521_212/1779352464055lUmA1_JPEG/%C8%C4%B4%F6%C1%D7%BA%F2%BD%CE%C0%CC%BC%F8%BB%EC%B7%B9%B1%D6%B7%AF.jpg",
-          "recommended": false,
-          "category": "튀김류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "셰프스 K 비프버거",
-          "price": 7500,
-          "priceType": null,
-          "description": "아삭매콤한 코울슬로 + 고추장 BBQ 소소의 조화로 풍미 가득한 비프버거",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20251124_75/1763967083463JTJq2_PNG/%BF%A1%B5%E5%BF%F6%B5%E5%B8%AEK%BA%F1%C7%C1%B9%F6%B0%C5.png",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "셰프스 K 싸이버거",
-          "price": 7800,
-          "priceType": null,
-          "description": "아삭매콤한 코울슬로 + 고추장 BBQ 소소의 조화로 풍미 가득한 치킨버거",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20251124_204/1763967096354Cev5S_PNG/%BF%A1%B5%E5%BF%F6%B5%E5%B8%AEK%BD%CE%C0%CC%B9%F6%B0%C5.png",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "셰프스 크림디종 빅싸이순살",
-          "price": 15900,
-          "priceType": null,
-          "description": "부드러운 크림치즈 + 디종 머스터드와 빅싸이순살의 환상적인 조화",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20251124_64/17639671210462NHAo_PNG/%BF%A1%B5%E5%BF%F6%B5%E5%B8%AE%C5%A9%B8%B2%B5%F0%C1%BE%BA%F2%BD%CE%C0%CC%BC%F8%BB%EC.png",
-          "recommended": false,
-          "category": "튀김류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "셰프스 베이컨 싸이버거",
-          "price": 8100,
-          "priceType": null,
-          "description": "베이컨잼 특제 레시피가 들어간 스페셜 싸이버거!",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20250408_90/1744080907747fKzqU_PNG/%BF%A1%B5%E5%BF%F6%B5%E5%B8%AE_%BD%CE%C0%CC%B9%F6%B0%C5.png",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "셰프스 버번 빅싸이순살",
-          "price": 15900,
-          "priceType": null,
-          "description": "육즙가득 닭다리살의 겉바속촉 식감과 버번의 달콤하고 스모키한 풍미의 극강조합",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20250408_165/1744080975431XSCYy_PNG/2502%B8%BE%C0%A5_%B9%E8%B9%CE%C5%F5%B8%ED_%BF%A1%B5%E5%BF%F6%B5%E5%B8%AE%BA%F2%BD%CE%C0%CC%BC%F8%BB%EC_%B7%B9%B1%D6%B7%AF%287%C1%B6%B0%A2%29.png",
-          "recommended": false,
-          "category": "튀김류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "후라이드빅싸이순살",
-          "price": 12900,
-          "priceType": null,
-          "description": "케이준 양념레시피로 더 바삭하고 스파이시한 닭다리살 순살 치킨을 더 크게~",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20241023_296/1729684421176CpXVq_PNG/%B9%E8%B9%CE_1280x960_%C8%C4%B6%F3%C0%CC%B5%E5_%BA%F2%BD%CE%C0%CC%BC%F8%BB%EC_%B7%B9%B1%D6%B7%AF%287%C1%B6%B0%A2%29.png",
-          "recommended": false,
-          "category": "튀김류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "싸이플렉스버거",
-          "price": 8900,
-          "priceType": null,
-          "description": "통다리살 싸이패티가 2장! 압도적 사이즈의 FLEX, 리얼 입찢버거 싸이플렉스버거",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20210420_163/1618903055910eUCwf_PNG/-QdLxumeW1koLEBVjDFJL5i6.png",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "아라비아따치즈버거",
-          "price": 7700,
-          "priceType": null,
-          "description": "고소한 통모짜렐라 치즈패티, 부드러운 통다리살, 매콤한 아라비아따 소스의 환상적인 조화",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20230807_127/16913773035166NblX_PNG/%BE%C6%B6%F3%BA%F1%BE%C6%B5%FB%C4%A1%C1%EE%B9%F6%B0%C5.png",
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "싸이버거",
-          "price": 5200,
-          "priceType": null,
-          "description": "바삭하고 매콤한 치킨 패티와 신선한 양상추가 조화를 이루는 맘스터치 시그니처 버거",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200807_279/1596783868230syYIT_PNG/U7xrtOfzOwD23Tv1NKq2h4sv.png",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "언빌리버블버거",
-          "price": 6500,
-          "priceType": null,
-          "description": "통새우, 에그프라이, 통가슴살 패티에 매콤한 스리라차마요소스를 더한 대확행 버거",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200807_130/1596783728912vpCox_PNG/fC4YzuCxmuqPFb8AmaAxi-p2.png",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "화이트갈릭버거",
-          "price": 5500,
-          "priceType": null,
-          "description": "부드러운 화이트갈릭소스에 프리미엄 더블햄과 통가슴살 패티까지 담은 묵직한 버거",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20230807_62/1691380935391arq0O_PNG/%C8%AD%C0%CC%C6%AE%B0%A5%B8%AF%B9%F6%B0%C5.png",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "케이준양념감자(중)",
-          "price": 2100,
-          "priceType": null,
-          "description": "케이준스타일의 바삭한 양념감자, 맘스터치의 베스트 사이드 메뉴",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20241023_205/1729684566375irjJt_PNG/%B9%E8%B9%CE_1280x960_%C4%C9%C0%CC%C1%D8%BE%E7%B3%E4%B0%A8%C0%DA%28%C1%DF%29.png",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "바삭크림치즈볼(4조각)",
-          "price": 3800,
-          "priceType": null,
-          "description": "바삭하고 쫀득하게 즐기는 치즈볼",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200807_123/15967839631825dFTY_PNG/nYNeAsmBKruFvlfFgxK3wMqx.png",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "코울슬로",
-          "price": 1900,
-          "priceType": null,
-          "description": "입맛을 돋우는 양배추의 아삭한 식감과 상큼한 맛의 코울슬로",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20241023_32/1729684587613aghWC_PNG/%B9%E8%B9%CE_1280x960_%C4%DA%BF%EF%BD%BD%B7%CE.png",
-          "recommended": false,
-          "category": "빵·샌드위치류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "콘샐러드",
-          "price": 1900,
-          "priceType": null,
-          "description": "달콤한 스위트콘에 신선한 야채까지",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20241023_226/1729684597149v32ud_PNG/%B9%E8%B9%CE_1280x960_%C4%DC%BB%F8%B7%AF%B5%E5.png",
-          "recommended": false,
-          "category": "샐러드류",
-          "cuisine": "양식"
-        }
-      ],
-      "menuImageAvailable": true
-    },
     "1004323414": {
       "placeName": "싱싱목장",
       "menus": [
@@ -2793,16 +2547,6 @@
           "recommended": true,
           "category": "고기·구이류",
           "cuisine": "동남아식"
-        },
-        {
-          "name": "🎁평일만 계란찜 서비스 드려요",
-          "price": 0,
-          "priceType": null,
-          "description": "평일 고객 감사 서비스. 평일에 방문하시는 고객님께 따끈한 계란찜을 무료로 드립니다.",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260407_262/1775567634052awIHP_JPEG/IMG_0035.jpeg",
-          "recommended": true,
-          "category": "볶음·찜류",
-          "cuisine": "한식"
         },
         {
           "name": "🥘리뷰쓰시면, 김치찌개 포장해드려요",
@@ -6511,42 +6255,6 @@
           "recommended": false,
           "category": "음료류",
           "cuisine": "카페·디저트"
-        }
-      ],
-      "menuImageAvailable": true
-    },
-    "1396200286": {
-      "placeName": "수내닭꼬치 삼육대점",
-      "menus": [
-        {
-          "name": "파/떡닭꼬치",
-          "price": 2500,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20190426_220/1556242506311R8h7F_JPEG/I3DR27BOS96SJsX6j5AcnHHw.jpg",
-          "recommended": false,
-          "category": "고기·구이류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "염통꼬치",
-          "price": 5000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20190426_295/1556242525824ixic6_JPEG/tVgBegmc210QmIWtRcRurJw6.jpg",
-          "recommended": false,
-          "category": "고기·구이류",
-          "cuisine": "한식"
-        },
-        {
-          "name": "꼬치어묵탕",
-          "price": 3000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20190426_88/1556242545861Jl5qW_JPEG/30_o4jsHRakV5aCSwdyn9z1Q.jpg",
-          "recommended": false,
-          "category": "국·탕류",
-          "cuisine": "한식"
         }
       ],
       "menuImageAvailable": true
@@ -10371,7 +10079,7 @@
           "cuisine": "한식"
         },
         {
-          "name": "생물아구탕 (1인) ☆9월부터~5월☆",
+          "name": "생물아구탕 (1인) ☆10월부터~5월",
           "price": 15000,
           "priceType": null,
           "description": "신선한 생물아구 부산에서 매일 공수하는 아구맛 9월부터 판매",
@@ -10381,7 +10089,7 @@
           "cuisine": "한식"
         },
         {
-          "name": "생물아구지리 (1인) ☆9월~5월☆",
+          "name": "생물아구지리 (1인) ☆10월~5월☆",
           "price": 15000,
           "priceType": null,
           "description": "생물아구의 부드럽고 시원한맛 해장 굿 9월 부터 판매",
