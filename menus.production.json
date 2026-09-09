@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T12:28:46.654Z",
+  "generatedAt": "2026-09-09T12:57:33.012Z",
   "meta": {
     "placeCount": 45,
     "placesWithMenus": 45,
-    "totalMenuCount": 1061,
+    "totalMenuCount": 1059,
     "notice": "네이버 플레이스 등록 정보와 수동 확인을 통해 수집한 메뉴이며 실제 메뉴는 다를 수 있습니다."
   },
   "places": {
@@ -5303,16 +5303,6 @@
           "cuisine": "일식"
         },
         {
-          "name": "돈코츠라멘",
-          "price": 11000,
-          "priceType": null,
-          "description": "직접 끓인 깊은 사골육수로 만들었습니다",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260129_34/1769683428594vQ40k_JPEG/%B6%F3%B8%E0.jpg",
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "일식"
-        },
-        {
           "name": "사케동(연어덮밥)",
           "price": 12000,
           "priceType": null,
@@ -5448,16 +5438,6 @@
           "priceType": null,
           "description": null,
           "imageUrl": null,
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "일식"
-        },
-        {
-          "name": "돈카츠 크림우동",
-          "price": 11000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260301_289/1772359872321byCJu_JPEG/IMG_7700.jpeg",
           "recommended": false,
           "category": "면류",
           "cuisine": "일식"
