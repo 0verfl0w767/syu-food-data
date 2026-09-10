@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T12:57:33.012Z",
+  "generatedAt": "2026-09-10T13:06:33.810Z",
   "meta": {
     "placeCount": 45,
     "placesWithMenus": 45,
-    "totalMenuCount": 1059,
+    "totalMenuCount": 1058,
     "notice": "네이버 플레이스 등록 정보와 수동 확인을 통해 수집한 메뉴이며 실제 메뉴는 다를 수 있습니다."
   },
   "places": {
@@ -5291,16 +5291,6 @@
           "recommended": true,
           "category": "밥류",
           "cuisine": "양식"
-        },
-        {
-          "name": "카라이라멘",
-          "price": 11000,
-          "priceType": null,
-          "description": "한돈뼈로 12시간 이상 끓여낸 깊은 육수로 만든 매운 라멘",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260301_287/17723598434595Vk6w_JPEG/IMG_7699.jpeg",
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "일식"
         },
         {
           "name": "사케동(연어덮밥)",
