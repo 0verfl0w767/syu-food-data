@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T13:06:33.810Z",
+  "generatedAt": "2026-09-12T08:20:37.776Z",
   "meta": {
     "placeCount": 45,
     "placesWithMenus": 45,
-    "totalMenuCount": 1058,
+    "totalMenuCount": 1053,
     "notice": "네이버 플레이스 등록 정보와 수동 확인을 통해 수집한 메뉴이며 실제 메뉴는 다를 수 있습니다."
   },
   "places": {
@@ -4715,7 +4715,7 @@
           "cuisine": "카페·디저트"
         },
         {
-          "name": "Grapefruit Ade (자몽에이드)",
+          "name": "Grapefruit Ade",
           "price": 7000,
           "priceType": null,
           "description": null,
@@ -4725,7 +4725,7 @@
           "cuisine": "카페·디저트"
         },
         {
-          "name": "Strawberry Ade (딸기에이드)",
+          "name": "Strawberry Ade",
           "price": 7000,
           "priceType": null,
           "description": null,
@@ -4765,7 +4765,7 @@
           "cuisine": "카페·디저트"
         },
         {
-          "name": "Strawberry Latte (딸기라떼)",
+          "name": "Strawberry Latte",
           "price": 7000,
           "priceType": null,
           "description": "[ICED]",
@@ -4785,7 +4785,7 @@
           "cuisine": "카페·디저트"
         },
         {
-          "name": "Greentea Latte (녹차라떼)",
+          "name": "Greentea Latte",
           "price": 6500,
           "priceType": null,
           "description": "[HOT / ICED]",
@@ -4865,7 +4865,7 @@
           "cuisine": "카페·디저트"
         },
         {
-          "name": "Chamomile Medley Tea (캐모마밀 메들리)",
+          "name": "Chamomile Medley Tea",
           "price": 6500,
           "priceType": null,
           "description": "RISHI-TEA 산지에서 직접 소싱한 최고급 유기농 차",
@@ -4875,7 +4875,7 @@
           "cuisine": "카페·디저트"
         },
         {
-          "name": "Blueberry Rooibos Tea (블루베리 루이보스)",
+          "name": "BlueberryRooibosTea",
           "price": 6500,
           "priceType": null,
           "description": "RISHI-TEA 산지에서 직접 소싱한 최고급 유기농 차",
@@ -4895,7 +4895,7 @@
           "cuisine": "카페·디저트"
         },
         {
-          "name": "Moonlight Jasmine Tea (문라이트 자스민)",
+          "name": "MoonlightJasmineTea",
           "price": 6500,
           "priceType": null,
           "description": "RISHI-TEA 산지에서 직접 소싱한 최고급 유기농 차",
@@ -6273,16 +6273,6 @@
           "cuisine": "카페·디저트"
         },
         {
-          "name": "프로즌 수박주스",
-          "price": 5900,
-          "priceType": null,
-          "description": "여름엔 수박주스🍉",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20260611_284/17811777266602dL5Q_JPEG/IMG_2370.jpg",
-          "recommended": false,
-          "category": "음료류",
-          "cuisine": "카페·디저트"
-        },
-        {
           "name": "크림라떼",
           "price": 6300,
           "priceType": null,
@@ -6304,7 +6294,7 @@
         },
         {
           "name": "브라우니 아이스크림",
-          "price": 8500,
+          "price": 8900,
           "priceType": null,
           "description": "공강 베스트 디저트!",
           "imageUrl": "https://ldb-phinf.pstatic.net/20210818_117/1629256482464pHktc_JPEG/dQy4EX7IQii26U7v-BwziH4A.jpeg.jpg",
@@ -6881,18 +6871,48 @@
       "placeName": "도로시화덕피자",
       "menus": [
         {
-          "name": "쉬림프 로제 리조또",
-          "price": 13000,
+          "name": "고르곤졸라",
+          "price": 16000,
           "priceType": null,
           "description": null,
-          "imageUrl": null,
+          "imageUrl": "https://ldb-phinf.pstatic.net/20260910_74/1789046914900s7PQW_JPEG/IMG_8256.jpg",
+          "recommended": true,
+          "category": "피자류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "마르게리따",
+          "price": 16000,
+          "priceType": null,
+          "description": null,
+          "imageUrl": "https://ldb-phinf.pstatic.net/20260910_272/1789046944038L6Qa1_JPEG/IMG_8250.jpg",
           "recommended": false,
-          "category": "밥류",
+          "category": "피자류",
           "cuisine": "양식"
         },
         {
           "name": "꼬마피자(고르곤졸라/마르게리따)",
-          "price": 6500,
+          "price": 6900,
+          "priceType": null,
+          "description": null,
+          "imageUrl": "https://ldb-phinf.pstatic.net/20260910_52/1789047084669PGUU0_JPEG/IMG_8249.jpg",
+          "recommended": false,
+          "category": "피자류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "루꼴라",
+          "price": 22000,
+          "priceType": null,
+          "description": null,
+          "imageUrl": null,
+          "recommended": false,
+          "category": "피자류",
+          "cuisine": "양식"
+        },
+        {
+          "name": "디아블라",
+          "price": 20000,
           "priceType": null,
           "description": null,
           "imageUrl": null,
@@ -6905,69 +6925,9 @@
           "price": 9500,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20230908_287/1694147791500rqd9s_JPEG/44261A66-6D71-451D-95D0-E5F9A3837027.jpeg",
+          "imageUrl": null,
           "recommended": false,
           "category": "면류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "고르곤졸라",
-          "price": 15000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200804_295/1596543443898unExW_JPEG/n4Fii7G-xtcA1ibg5k_2hwcr.jpg",
-          "recommended": true,
-          "category": "피자류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "마르게리따",
-          "price": 15000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200804_143/1596549940696grvVb_JPEG/0SgDPaTo65-EKf_cgkU0ozUX.jpg",
-          "recommended": false,
-          "category": "피자류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "카프리쵸사",
-          "price": 18000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200901_242/1598961029307tjgKO_JPEG/jsCeZK-6cWTfUq4Xy4RE7vON.jpeg.jpg",
-          "recommended": false,
-          "category": "피자류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "디아블라",
-          "price": 18000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200804_51/159655100421189MMy_JPEG/Sg2qYZaZbiRf4oy06IwbaIZB.jpg",
-          "recommended": false,
-          "category": "피자류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "깔쬬네",
-          "price": 19000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200804_161/1596551013411BIfyQ_JPEG/fud4v6rURb94qVZ0pQucUFz2.jpg",
-          "recommended": false,
-          "category": "피자류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "루꼴라",
-          "price": 21000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200901_106/1598961154932tlXgu_JPEG/d9lOtudk1lDaSdOAlunzB_BT.jpeg.jpg",
-          "recommended": false,
-          "category": "피자류",
           "cuisine": "양식"
         },
         {
@@ -6975,7 +6935,7 @@
           "price": 13500,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20210915_243/1631688068554wUv4p_JPEG/Btn3tkJjPMz8mbBXAhrpMVp-.jpeg.jpg",
+          "imageUrl": null,
           "recommended": false,
           "category": "면류",
           "cuisine": "양식"
@@ -6985,17 +6945,17 @@
           "price": 13000,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20201127_54/1606456998277PObXt_JPEG/NIMSaQUg6hY3IoPbuG1lhfEZ.jpeg.jpg",
+          "imageUrl": null,
           "recommended": false,
           "category": "면류",
           "cuisine": "양식"
         },
         {
           "name": "로제 파스타",
-          "price": 9000,
+          "price": 9500,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200804_150/1596551071534Yn5RN_JPEG/OK7QGQEmZhq_7WXje0ciaUzX.jpg",
+          "imageUrl": null,
           "recommended": false,
           "category": "면류",
           "cuisine": "양식"
@@ -7005,37 +6965,27 @@
           "price": 9000,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200901_92/1598961069475qJ3bQ_JPEG/-C8c3RVlywY6QaxvkzUXK7eu.jpeg.jpg",
+          "imageUrl": null,
           "recommended": false,
           "category": "면류",
           "cuisine": "양식"
         },
         {
           "name": "까르보나라",
-          "price": 9000,
+          "price": 9500,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20211117_288/1637156238780v04Ge_JPEG/D24A7B00-F670-47AF-8643-7F1D3D978528.jpeg",
+          "imageUrl": null,
           "recommended": false,
           "category": "면류",
           "cuisine": "양식"
         },
         {
           "name": "치즈 화덕 파스타",
-          "price": 9000,
+          "price": 9500,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20200804_157/1596551287432JV7Dq_JPEG/Nqa-n1ZqSGwj-uqtpbp3EEJx.jpg",
-          "recommended": false,
-          "category": "면류",
-          "cuisine": "양식"
-        },
-        {
-          "name": "빠네",
-          "price": 14000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20220102_230/1641123935944Hpadp_JPEG/783118BF-BA28-453E-A69E-EB8781DF5D6D.jpeg",
+          "imageUrl": null,
           "recommended": false,
           "category": "면류",
           "cuisine": "양식"
@@ -7045,27 +6995,27 @@
           "price": 9500,
           "priceType": null,
           "description": "수제 도우를 사용합니다.",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20210923_33/16323749894423uMUA_JPEG/ULHGM6qEtPPTRAf4wQ6xP_Po.jpeg.jpg",
+          "imageUrl": null,
           "recommended": false,
           "category": "면류",
           "cuisine": "양식"
         },
         {
           "name": "라자냐 L",
-          "price": 12500,
+          "price": 13000,
           "priceType": null,
           "description": "수제 도우를 사용합니다.",
-          "imageUrl": "https://ldb-phinf.pstatic.net/20220102_292/1641122810802yeeAk_JPEG/70995B72-31CB-4DE7-A7B2-D69A568BC911.jpeg",
+          "imageUrl": null,
           "recommended": false,
           "category": "면류",
           "cuisine": "양식"
         },
         {
           "name": "버섯 크림 리조또",
-          "price": 10000,
+          "price": 10500,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20211117_204/1637156150101Wkl1V_JPEG/9D5125B5-DA43-4C77-99F4-47E007E374B8.jpeg",
+          "imageUrl": null,
           "recommended": false,
           "category": "밥류",
           "cuisine": "양식"
@@ -7082,10 +7032,10 @@
         },
         {
           "name": "치킨 도리아",
-          "price": 9500,
+          "price": 9900,
           "priceType": null,
           "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20220102_130/1641124364220W129h_JPEG/B430C662-DBF1-447B-B656-93C1C0A307A2.jpeg",
+          "imageUrl": null,
           "recommended": false,
           "category": "밥류",
           "cuisine": "양식"
@@ -9820,7 +9770,7 @@
       "menus": [
         {
           "name": "간장게장 1마리 - 포장시 손질여부",
-          "price": 32000,
+          "price": 33000,
           "priceType": null,
           "description": "40전통의 노하우가 담긴 간장과 국내산 암꽃게 사용",
           "imageUrl": "https://ldb-phinf.pstatic.net/20260126_96/1769437410956rn1tE_JPEG/1769437340344.jpg",
@@ -9870,7 +9820,7 @@
         },
         {
           "name": "양념 게장 1마리",
-          "price": 34000,
+          "price": 35000,
           "priceType": null,
           "description": "★암꽃게★ 비법 양념을 곁들인 매콤 담백한 맛",
           "imageUrl": "https://ldb-phinf.pstatic.net/20250806_205/175440728118233i1G_JPEG/%BE%E7%B3%E4%B0%D4%C0%E5.jpeg",
@@ -9900,7 +9850,7 @@
         },
         {
           "name": "아구찜 소 (2인)",
-          "price": 43000,
+          "price": 45000,
           "priceType": null,
           "description": "탱탱한 아구살과 쫀득한 아구 내장의 조화",
           "imageUrl": "https://ldb-phinf.pstatic.net/20260403_165/1775205032140pSYoJ_JPEG/1775203811415.jpg",
@@ -9910,7 +9860,7 @@
         },
         {
           "name": "아구찜 중 ( 3인 )",
-          "price": 55000,
+          "price": 57000,
           "priceType": null,
           "description": "♠ 담백한 맛이 일품인 아구찜, 콩나물 비법소스 환상 조화.♠ ㅡ 맵기조절가능",
           "imageUrl": "https://ldb-phinf.pstatic.net/20251223_63/17664684812295hLWD_JPEG/20251222_191058.jpg",
@@ -9920,7 +9870,7 @@
         },
         {
           "name": "아구찜 대 (4인)",
-          "price": 68000,
+          "price": 69000,
           "priceType": null,
           "description": "♥ 오동통한 아구와 아삭한 콩나물 ♥ ㅡ 맵기조절가능",
           "imageUrl": "https://ldb-phinf.pstatic.net/20251223_16/176646784039891llG_JPEG/20251222_133204.jpg",
@@ -9930,7 +9880,7 @@
         },
         {
           "name": "해물찜 중 (2~3인)",
-          "price": 59000,
+          "price": 62000,
           "priceType": null,
           "description": "★갑오징어.낙지.국산꽃게.새우.오만둥이.그린홍합 등 엄선된 프리미엄 해물에 비법 양념",
           "imageUrl": "https://ldb-phinf.pstatic.net/20250723_127/1753210404275RBvMB_JPEG/%C7%D8%B9%B0%C1%FC.jpg",
@@ -9940,7 +9890,7 @@
         },
         {
           "name": "해물찜 대 (3~4인)",
-          "price": 72000,
+          "price": 75000,
           "priceType": null,
           "description": "신선한 해산물을 엄선된 최고의 맛 ㅡ 맵기 조절 가능",
           "imageUrl": "https://ldb-phinf.pstatic.net/20250927_119/17589464468387U1GJ_JPEG/%C3%DF%B0%A1_%C7%D8%B9%B0%C2%F2_2.jpeg",
@@ -9960,7 +9910,7 @@
         },
         {
           "name": "해물탕 (2~3인)",
-          "price": 59000,
+          "price": 62000,
           "priceType": null,
           "description": "갑오징어,낙지,꽃게,아구둥 7가지 해산물 얼큰하고 시원한 국물",
           "imageUrl": "https://ldb-phinf.pstatic.net/20250812_254/1754972964653XGBnH_JPEG/Resized_temp_1754925486749.-634017783_22833747406600_1754925494544.jpeg",
