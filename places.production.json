@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-12T08:18:52.757Z",
+  "generatedAt": "2026-09-14T12:43:47.169Z",
   "meta": {
-    "totalCount": 45,
+    "totalCount": 47,
     "cached": true,
     "ratingNotice": "네이버가 공개한 방문 만족도(별점)가 있는 매장만 점수를 제공합니다."
   },
@@ -156,8 +156,8 @@
       "x": "127.1101953",
       "y": "37.6438309",
       "distance": "82.17",
-      "visitorReviewCount": 8178,
-      "blogReviewCount": 1462,
+      "visitorReviewCount": 8198,
+      "blogReviewCount": 1465,
       "visitorReviewScore": 4.93,
       "imageUrl": "https://ldb-phinf.pstatic.net/20260225_201/1772030230673rsocf_JPEG/A1_00093.jpg",
       "imageUrls": [
@@ -265,7 +265,7 @@
       "imageUrl": "https://ldb-phinf.pstatic.net/20260910_224/1789047950890z4zsa_JPEG/IMG_8256.jpg",
       "imageUrls": [
         "https://ldb-phinf.pstatic.net/20260910_224/1789047950890z4zsa_JPEG/IMG_8256.jpg",
-        "https://ldb-phinf.pstatic.net/20260910_201/17890482306689Uhk5_JPEG/IMG_7997.jpg"
+        "https://ldb-phinf.pstatic.net/20260910_62/1789047950391GBKpy_JPEG/IMG_8262.jpg"
       ],
       "microReview": null,
       "naverMapUrl": "https://map.naver.com/p/entry/place/1607577852"
@@ -321,9 +321,9 @@
       "x": "127.1103782",
       "y": "37.6439047",
       "distance": "98.47",
-      "visitorReviewCount": 1061,
+      "visitorReviewCount": 1067,
       "blogReviewCount": 10,
-      "visitorReviewScore": 4.88,
+      "visitorReviewScore": 4.89,
       "imageUrl": "https://ldb-phinf.pstatic.net/20250310_133/1741618320099dXWq3_JPEG/1414.jpg",
       "imageUrls": [
         "https://ldb-phinf.pstatic.net/20250310_133/1741618320099dXWq3_JPEG/1414.jpg",
@@ -424,7 +424,7 @@
       "y": "37.6444730",
       "distance": "123.77",
       "visitorReviewCount": 499,
-      "blogReviewCount": 268,
+      "blogReviewCount": 269,
       "visitorReviewScore": null,
       "imageUrl": "https://ldb-phinf.pstatic.net/20250305_141/1741142188291jIFhG_JPEG/ADFE5BE4-8D1E-4D98-A64F-79762E0D697C.jpeg",
       "imageUrls": [
@@ -547,7 +547,7 @@
       "x": "127.1116532",
       "y": "37.6440362",
       "distance": "211.57",
-      "visitorReviewCount": 1848,
+      "visitorReviewCount": 1853,
       "blogReviewCount": 329,
       "visitorReviewScore": null,
       "imageUrl": "https://ldb-phinf.pstatic.net/20200902_81/1599045568327d3Fs1_JPEG/4Zr2T9cTk1ex6FZCOSA5gkCT.jpg",
@@ -568,9 +568,9 @@
       "x": "127.1117241",
       "y": "37.6431551",
       "distance": "229.98",
-      "visitorReviewCount": 3062,
+      "visitorReviewCount": 3061,
       "blogReviewCount": 260,
-      "visitorReviewScore": 4.19,
+      "visitorReviewScore": 4.26,
       "imageUrl": "https://ldb-phinf.pstatic.net/20211110_188/1636537386875F7RRy_JPEG/z7qL6G1tN4Uj9Z4cIhszcgsJ.jpg",
       "imageUrls": [
         "https://ldb-phinf.pstatic.net/20211110_188/1636537386875F7RRy_JPEG/z7qL6G1tN4Uj9Z4cIhszcgsJ.jpg",
@@ -589,9 +589,9 @@
       "x": "127.1115918",
       "y": "37.6428341",
       "distance": "233.96",
-      "visitorReviewCount": 1085,
+      "visitorReviewCount": 1086,
       "blogReviewCount": 435,
-      "visitorReviewScore": 4.53,
+      "visitorReviewScore": 4.52,
       "imageUrl": "https://ldb-phinf.pstatic.net/20250305_240/1741155947877edwDW_JPEG/1000004984.jpg",
       "imageUrls": [
         "https://ldb-phinf.pstatic.net/20250305_240/1741155947877edwDW_JPEG/1000004984.jpg",
@@ -610,8 +610,8 @@
       "x": "127.1096726",
       "y": "37.6463257",
       "distance": "278.06",
-      "visitorReviewCount": 12072,
-      "blogReviewCount": 2318,
+      "visitorReviewCount": 12157,
+      "blogReviewCount": 2321,
       "visitorReviewScore": 4.79,
       "imageUrl": "https://ldb-phinf.pstatic.net/20260217_123/17712930323495axw2_JPEG/IMG_1684.jpeg",
       "imageUrls": [
@@ -631,7 +631,7 @@
       "x": "127.1116869",
       "y": "37.6416337",
       "distance": "325.73",
-      "visitorReviewCount": 4486,
+      "visitorReviewCount": 4491,
       "blogReviewCount": 277,
       "visitorReviewScore": null,
       "imageUrl": "https://ldb-phinf.pstatic.net/20250522_59/17478939923512n1r2_JPEG/20250506_194209.jpg",
@@ -652,9 +652,9 @@
       "x": "127.1089172",
       "y": "37.6470362",
       "distance": "356.01",
-      "visitorReviewCount": 3154,
-      "blogReviewCount": 601,
-      "visitorReviewScore": 4.46,
+      "visitorReviewCount": 3162,
+      "blogReviewCount": 602,
+      "visitorReviewScore": 4.47,
       "imageUrl": "https://ldb-phinf.pstatic.net/20250224_49/1740369600898RDMPD_JPEG/Screenshot_20240717_221510_Instagram.jpg",
       "imageUrls": [
         "https://ldb-phinf.pstatic.net/20250224_49/1740369600898RDMPD_JPEG/Screenshot_20240717_221510_Instagram.jpg",
@@ -673,8 +673,8 @@
       "x": "127.1081345",
       "y": "37.6469787",
       "distance": "362.19",
-      "visitorReviewCount": 10763,
-      "blogReviewCount": 3235,
+      "visitorReviewCount": 10820,
+      "blogReviewCount": 3236,
       "visitorReviewScore": null,
       "imageUrl": "https://ldb-phinf.pstatic.net/20241122_47/17322699059943RxYt_JPEG/%B3%D7%C0%CC%B9%F6_%BF%EC%BC%F6%B0%A1%B8%CD%C1%A1_%B9%E8%B3%CA_%C3%BB%B0%E1%2C%C0%A7%BB%FD_%BF%EC%BC%F6.jpg",
       "imageUrls": [
@@ -694,8 +694,8 @@
       "x": "127.1068229",
       "y": "37.6470405",
       "distance": "415.07",
-      "visitorReviewCount": 23001,
-      "blogReviewCount": 35184,
+      "visitorReviewCount": 23012,
+      "blogReviewCount": 35274,
       "visitorReviewScore": null,
       "imageUrl": "https://ldb-phinf.pstatic.net/20191111_209/15734489718515ujdE_JPEG/QNEBRFHiyYsO5X6eot9yEcEk.jpg",
       "imageUrls": [
@@ -704,6 +704,27 @@
       ],
       "microReview": "넓은 공간에서 즐기는 특별한 카페",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1188021960"
+    },
+    {
+      "id": "2089102356",
+      "name": "에그카페24",
+      "category": "카페,디저트",
+      "roadAddress": "별내4로 8 상가동 1층 106호",
+      "address": "별내동 1041",
+      "phone": "0507-1326-2808",
+      "x": "127.1139637",
+      "y": "37.6442050",
+      "distance": "415.86",
+      "visitorReviewCount": 5,
+      "blogReviewCount": 0,
+      "visitorReviewScore": null,
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260826_102/17877440037515BkND_JPEG/EDFC869C-4741-4CD9-ACDD-BC1E0A2BC491.jpg",
+      "imageUrls": [
+        "https://ldb-phinf.pstatic.net/20260826_102/17877440037515BkND_JPEG/EDFC869C-4741-4CD9-ACDD-BC1E0A2BC491.jpg",
+        "https://ldb-phinf.pstatic.net/20260826_194/1787743999780Bnl5d_JPEG/IMG_5078.jpg"
+      ],
+      "microReview": null,
+      "naverMapUrl": "https://map.naver.com/p/entry/place/2089102356"
     },
     {
       "id": "1962117795",
@@ -715,7 +736,7 @@
       "x": "127.1077312",
       "y": "37.6477154",
       "distance": "450.86",
-      "visitorReviewCount": 716,
+      "visitorReviewCount": 717,
       "blogReviewCount": 187,
       "visitorReviewScore": null,
       "imageUrl": "https://ldb-phinf.pstatic.net/20230220_179/1676883551392mjzl3_JPEG/KakaoTalk_Photo_2023-02-20-17-59-00_005.jpeg",
@@ -736,8 +757,8 @@
       "x": "127.1081865",
       "y": "37.6478306",
       "distance": "453.05",
-      "visitorReviewCount": 427,
-      "blogReviewCount": 66,
+      "visitorReviewCount": 438,
+      "blogReviewCount": 67,
       "visitorReviewScore": null,
       "imageUrl": "https://ldb-phinf.pstatic.net/20260331_239/1774948382203myibu_PNG/%BA%B0%B3%BB%C1%A108.png",
       "imageUrls": [
@@ -798,8 +819,8 @@
       "x": "127.1103221",
       "y": "37.6492218",
       "distance": "604.98",
-      "visitorReviewCount": 1739,
-      "blogReviewCount": 139,
+      "visitorReviewCount": 1755,
+      "blogReviewCount": 140,
       "visitorReviewScore": 4.84,
       "imageUrl": "https://ldb-phinf.pstatic.net/20260508_15/1778231591466VH90N_JPEG/1000040057.jpg",
       "imageUrls": [
@@ -819,8 +840,8 @@
       "x": "127.1081247",
       "y": "37.6493323",
       "distance": "618.19",
-      "visitorReviewCount": 1261,
-      "blogReviewCount": 1520,
+      "visitorReviewCount": 1264,
+      "blogReviewCount": 1522,
       "visitorReviewScore": null,
       "imageUrl": "https://ldb-phinf.pstatic.net/20181125_20/1543137717474hfqvP_JPEG/bboi0yvJD8LFEKY9zlquFm0q.jpg",
       "imageUrls": [
@@ -881,7 +902,7 @@
       "x": "127.1067513",
       "y": "37.6494464",
       "distance": "660.79",
-      "visitorReviewCount": 479,
+      "visitorReviewCount": 480,
       "blogReviewCount": 50,
       "visitorReviewScore": null,
       "imageUrl": "https://ldb-phinf.pstatic.net/20190321_37/1553140669559FS05w_JPEG/Yd9EL17Iyw-sJSSAkX1BjBlt.jpg",
@@ -891,6 +912,27 @@
       ],
       "microReview": "담백한 감자전과 함께 즐기는 행복",
       "naverMapUrl": "https://map.naver.com/p/entry/place/1057035999"
+    },
+    {
+      "id": "1568283106",
+      "name": "가가족족 별내본점",
+      "category": "족발,보쌈",
+      "roadAddress": "불암로81번길 28 1층 가가족족",
+      "address": "별내동 625-26",
+      "phone": "031-574-3993",
+      "x": "127.1074084",
+      "y": "37.6496242",
+      "distance": "662.89",
+      "visitorReviewCount": 360,
+      "blogReviewCount": 56,
+      "visitorReviewScore": null,
+      "imageUrl": "https://ldb-phinf.pstatic.net/20221224_101/1671845673999ACTHI_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%286%29.jpg",
+      "imageUrls": [
+        "https://ldb-phinf.pstatic.net/20221224_101/1671845673999ACTHI_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%286%29.jpg",
+        "https://ldb-phinf.pstatic.net/20220617_207/1655397236370a8wDq_JPEG/2E09306B-BB48-4C84-ACD1-A847DE944F24.jpeg"
+      ],
+      "microReview": "숯불향 가득한 참숯 명품 족발의 매력",
+      "naverMapUrl": "https://map.naver.com/p/entry/place/1568283106"
     },
     {
       "id": "1373390609",

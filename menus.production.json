@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T08:20:37.776Z",
+  "generatedAt": "2026-09-14T12:45:33.560Z",
   "meta": {
-    "placeCount": 45,
-    "placesWithMenus": 45,
-    "totalMenuCount": 1053,
+    "placeCount": 47,
+    "placesWithMenus": 47,
+    "totalMenuCount": 1064,
     "notice": "네이버 플레이스 등록 정보와 수동 확인을 통해 수집한 메뉴이며 실제 메뉴는 다를 수 있습니다."
   },
   "places": {
@@ -6791,6 +6791,122 @@
       ],
       "menuImageAvailable": true
     },
+    "1568283106": {
+      "placeName": "가가족족 별내본점",
+      "menus": [
+        {
+          "name": "참숯 명품 족발",
+          "price": 41000,
+          "priceType": null,
+          "description": "앞발 변경 시: 43,000원, 인기 메뉴",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_266/1667925749832lTuVe_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%283%29.jpg",
+          "recommended": true,
+          "category": "고기·구이류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "명품 튀김족발",
+          "price": 51000,
+          "priceType": null,
+          "description": "앞발로 변경 시 54,000원",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_261/1667925783923OlqaS_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%2813%29.jpg",
+          "recommended": true,
+          "category": "튀김류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "명품 불튀족",
+          "price": 48000,
+          "priceType": null,
+          "description": "앞발 변경 시: 51,000원",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_215/1667926041420AiQys_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%2815%29.jpg",
+          "recommended": true,
+          "category": "고기·구이류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "정통 매콤 불족발",
+          "price": 43000,
+          "priceType": null,
+          "description": "앞발 변경 시 46,000원. (맵기조절가능) 기본=신라면정도",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_203/1667926062408pTrWq_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%2812%29.jpg",
+          "recommended": true,
+          "category": "고기·구이류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "정통 마늘 족발",
+          "price": 43000,
+          "priceType": null,
+          "description": "앞발 변경 시 46,000원",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_80/1667926079472S09vt_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%286%29.jpg",
+          "recommended": true,
+          "category": "고기·구이류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "프리미엄 보쌈(중)",
+          "price": 41000,
+          "priceType": null,
+          "description": "엄선된 재료로 만든 프리미엄 보쌈 (대) 44,000원",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_219/16679261939614s44e_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%281%29.jpg",
+          "recommended": true,
+          "category": "고기·구이류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "명품 마늘 보쌈(중)",
+          "price": 43000,
+          "priceType": null,
+          "description": "특별한 날을 더욱 특별하게, 정통 마늘보쌈을 즐겨보세요. (대) 46,000원",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_279/1667926766756wfYpl_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%284%29.jpg",
+          "recommended": false,
+          "category": "고기·구이류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "특선 프리미엄 불보쌈(중)",
+          "price": 43000,
+          "priceType": null,
+          "description": "매콤달콤한 특제 소스와 프리미엄 보쌈의 환상적인 조화 (대) 46,000원",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_205/1667926822006e1Pff_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%287%29.jpg",
+          "recommended": false,
+          "category": "고기·구이류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "정통 쟁반막국수(중)",
+          "price": 8000,
+          "priceType": null,
+          "description": "푸짐한 양으로 즐기는 정통 쟁반막국수 (대) 12,000원",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_296/1667926223354pBh8a_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%282%29.jpg",
+          "recommended": false,
+          "category": "면류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "인기 참치마요 주먹밥",
+          "price": 6000,
+          "priceType": null,
+          "description": "직접 만들어 더 맛있는 재미! 정통 참치마요 주먹밥",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_99/1667926956827Phj9P_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%288%29.jpg",
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "한식"
+        },
+        {
+          "name": "정통 족발 볶음밥",
+          "price": 9000,
+          "priceType": null,
+          "description": "쫄깃한 족발과 밥의 환상적인 조화, 인기 메뉴",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20221109_99/1667926904912tVgEz_JPEG/%B0%A1%B0%A1%C1%B7%C1%B7_%2816%29.jpg",
+          "recommended": false,
+          "category": "밥류",
+          "cuisine": "한식"
+        }
+      ],
+      "menuImageAvailable": true
+    },
     "1590757380": {
       "placeName": "토리코코로 별내본점",
       "menus": [
@@ -9870,7 +9986,7 @@
         },
         {
           "name": "아구찜 대 (4인)",
-          "price": 69000,
+          "price": 70000,
           "priceType": null,
           "description": "♥ 오동통한 아구와 아삭한 콩나물 ♥ ㅡ 맵기조절가능",
           "imageUrl": "https://ldb-phinf.pstatic.net/20251223_16/176646784039891llG_JPEG/20251222_133204.jpg",
@@ -9969,7 +10085,7 @@
           "cuisine": "한식"
         },
         {
-          "name": "코다리구이 정식 (평일 점심만 판매)",
+          "name": "코다리구이정식 (평일 점심 한정)",
           "price": 14000,
           "priceType": null,
           "description": null,
@@ -10029,7 +10145,7 @@
           "cuisine": "한식"
         },
         {
-          "name": "오늘의 전 추가 (매일 다릅니다)",
+          "name": "오늘의 전 (매일 다름 ㅡ 포장불가)",
           "price": 2000,
           "priceType": null,
           "description": "그날그날 변경 되는 전을 바삭바삭",
@@ -10109,16 +10225,6 @@
           "cuisine": "한식"
         },
         {
-          "name": "사케 -오니얌마 아오 (도쿠리)",
-          "price": 30000,
-          "priceType": null,
-          "description": null,
-          "imageUrl": "https://ldb-phinf.pstatic.net/20250922_31/1758526345290CRk1d_JPEG/%BF%C0%B4%CF%BE%E4%B8%B6_%C0%CC%BF%C0.jpg",
-          "recommended": false,
-          "category": "주류",
-          "cuisine": "한식"
-        },
-        {
           "name": "화요25",
           "price": 25000,
           "priceType": null,
@@ -10160,7 +10266,7 @@
         },
         {
           "name": "발베니 12년 700ml",
-          "price": 200000,
+          "price": 190000,
           "priceType": null,
           "description": null,
           "imageUrl": "https://ldb-phinf.pstatic.net/20251002_195/1759337671903kL7qK_PNG/%B9%DF%B5%E5.png",
@@ -10170,7 +10276,7 @@
         },
         {
           "name": "발렌타인 30 년",
-          "price": 1000000,
+          "price": 990000,
           "priceType": null,
           "description": null,
           "imageUrl": "https://ldb-phinf.pstatic.net/20251002_209/1759337819561QIDJr_PNG/3036c4.png",
@@ -10237,6 +10343,22 @@
           "recommended": false,
           "category": "볶음·찜류",
           "cuisine": "한식"
+        }
+      ],
+      "menuImageAvailable": true
+    },
+    "2089102356": {
+      "placeName": "에그카페24",
+      "menus": [
+        {
+          "name": "고소한 아메리카노",
+          "price": 2300,
+          "priceType": null,
+          "description": null,
+          "imageUrl": "https://ldb-phinf.pstatic.net/20260826_292/1787744512005HzdAP_JPEG/IMG_4979.jpg",
+          "recommended": false,
+          "category": "음료류",
+          "cuisine": "카페·디저트"
         }
       ],
       "menuImageAvailable": true
