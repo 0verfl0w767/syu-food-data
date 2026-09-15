@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T12:45:33.560Z",
+  "generatedAt": "2026-09-15T13:05:20.386Z",
   "meta": {
-    "placeCount": 47,
+    "placeCount": 48,
     "placesWithMenus": 47,
     "totalMenuCount": 1064,
     "notice": "네이버 플레이스 등록 정보와 수동 확인을 통해 수집한 메뉴이며 실제 메뉴는 다를 수 있습니다."
@@ -6790,6 +6790,11 @@
         }
       ],
       "menuImageAvailable": true
+    },
+    "1503748345": {
+      "placeName": "오렌지몽키파스타&필라프 별내점",
+      "menus": [],
+      "menuImageAvailable": false
     },
     "1568283106": {
       "placeName": "가가족족 별내본점",
