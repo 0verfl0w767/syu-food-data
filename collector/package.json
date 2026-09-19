@@ -1,0 +1,23 @@
+{
+  "name": "syu-food-data-collector",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "collect:places": "ts-node src/collect-production-places.ts",
+    "collect:reviews": "ts-node src/collect-production-reviews.ts",
+    "collect:menus": "ts-node src/collect-production-menus.ts",
+    "categorize:menus": "ts-node src/categorize-production-menus.ts",
+    "validate:data": "ts-node src/validate-production-data.ts",
+    "refresh:data": "npm run collect:places && npm run collect:reviews && npm run collect:menus && npm run validate:data"
+  },
+  "dependencies": {
+    "playwright-core": "^1.55.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "prettier": "^2.3.2",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.7.4"
+  }
+}

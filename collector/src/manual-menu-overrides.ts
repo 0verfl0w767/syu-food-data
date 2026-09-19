@@ -1,0 +1,468 @@
+import { UnclassifiedNaverMenuItem } from './types'
+
+type ManualMenuEntry =
+  | string
+  | {
+      name: string
+      description?: string
+    }
+
+const manualMenuReplacementsByPlaceId: Record<string, ManualMenuEntry[]> = {
+  // 샌두 삼육대점 — 2026-09-06 메뉴판 수동 확인
+  '1053098412': [
+    '나홀로든든 샌드위치 + 음료/스프',
+    '간편든든 싱글랩/웜랩 + 음료/스프',
+    '다이어트 샐러드/포케 + 음료/스프',
+    '슬림누들 누들샐러드 + 음료/스프',
+    '단백질충전 식단도시락 + 음료/스프',
+    '수비드닭다리살 포케',
+    '수비드 닭가슴살 포케',
+    '오리훈제 포케',
+    '육회 포케',
+    '우삼겹 포케',
+    '생연어 포케',
+    '수비드 닭다리살 도시락',
+    '수비드 닭가슴살 도시락',
+    '들기름 메밀면 샐러드',
+    '치킨텐더 샐러드',
+    '구운버섯 샐러드',
+    '구운쉬림프 샐러드',
+    '닭가슴살고구마 샐러드',
+    '리코타치즈 샐러드',
+    '크리스피치킨 싱글랩',
+    '스파이시치킨 싱글랩',
+    '스테이크앤치즈 싱글랩',
+    '생연어크림치즈 싱글랩',
+    '오리훈제 웜랩',
+    '소불고기 웜랩',
+    '우삼겹 웜랩',
+    '갈릭쉬림프 웜랩',
+    '햄치즈에그 샌드위치',
+    '단호박크림치즈 샌드위치',
+    '치킨데리야끼 샌드위치',
+    '에그베이컨 샌드위치',
+    '리코타크랜베리 샌드위치',
+    '에그달콤 스프레드',
+    '크림치즈단호박 스프레드',
+    '리코타허니 스프레드',
+    '꿀고구마 스프레드',
+    '양송이 크림스프',
+    '단호박 크림스프',
+    '햄치즈 카야 토스트',
+    '카야 버터 토스트',
+    '불고기 치즈 토스트',
+    '리얼 수박주스',
+    '리얼 수박주스 1L 보틀',
+    '생딸기주스',
+    '꿀토마토 주스',
+    '생바나나주스',
+    '아메리카노',
+    '카페라떼',
+    '바닐라라떼',
+    '돌체라떼',
+    '헤이즐넛 오트 콜드브루',
+    '콜드브루',
+    '콜드브루 라떼',
+    '콜드브루 바닐라라떼',
+    '콜드브루 돌체라떼',
+    '디카페인 콜드브루',
+    '디카페인 콜드브루 라떼',
+    '디카페인 콜드브루 바닐라라떼',
+    '디카페인 콜드브루 돌체라떼',
+    '대용량 1L 보틀 (커피)',
+    '대용량 1L 보틀 (라떼)',
+    '대용량 1L 보틀 (차&에이드)',
+    '대용량 1L 보틀 (주스&스무디)',
+    '미숫가루 (우유)',
+    '냉마라떼',
+    '제주말차라떼',
+    '딸기라떼',
+    '붓기 쏙 차',
+    '복숭아 아이스티',
+    '레몬에이드',
+    '자몽에이드',
+    '청포도에이드',
+    '냉마스무디',
+    '미숫가루 스무디',
+    '제주말차스무디',
+    '플레인요거트 스무디',
+    '딸기요거트 스무디',
+  ],
+  // 애버그린 ae:ver green — 2026-09-06 메뉴판 수동 확인
+  '2014158298': [
+    '카라멜러버',
+    '쥬시홀릭',
+    '구수',
+    '보통',
+    '버번 디카페인',
+    '페루 게이샤',
+    {
+      name: '수제그릭요거트',
+      description: '플레인 / 초코·말차 / 딸기·망고·블루베리',
+    },
+    {
+      name: '수제 드링킹 요거트',
+      description: '플레인 / 딸기·망고·블루베리·사과',
+    },
+    {
+      name: '과일청 에이드',
+      description: '자몽 / 레몬 패션후르츠',
+    },
+    {
+      name: '티에이드',
+      description: '자몽자스민',
+    },
+    '말차라떼',
+    '루이보스소이라떼',
+    {
+      name: '포트넘앤메이슨',
+      description: '퀸앤 / 러시안카라반 / 로즈포총 / 랍상소총 / 포트메이슨 / 얼그레이클래식',
+    },
+    {
+      name: '마리아쥬프레르',
+      description: '루즈오페라 / 에로스 / 플렌류 / 웨딩임페리얼 / 마르코폴로 / 얼그레이프렌치블루',
+    },
+    {
+      name: 'TWG',
+      description: '게이샤블러썸 / 실버문 / 1837 / 미드나잇아워 / 오뜨꾸뛰르 / 나폴레옹',
+    },
+    {
+      name: '녹차',
+      description: '제주 유기농녹차 / 호지차',
+    },
+    {
+      name: '백차',
+      description: '백모단',
+    },
+    {
+      name: '청차',
+      description: '철관음',
+    },
+    {
+      name: '홍차',
+      description: '우바 / 얼그레이',
+    },
+    {
+      name: '허브차',
+      description: '루이보스 / 캐모마일 / 페퍼민트',
+    },
+    {
+      name: '블렌드 티',
+      description: '안녕, 벚꽃 / 로즈 자스민 / 망고 우롱 / 바닐라 루이보스',
+    },
+    {
+      name: 'K-tea',
+      description: '대추차 / 생강차 / 유자차',
+    },
+    {
+      name: '아이스티',
+      description: '복숭아딸기 / 망고 / 패션후르츠 / 리치 · 홍차 / 녹차 / 루이보스',
+    },
+    '캐모마일 애사비',
+  ],
+  // 하이오커피 삼육대점 — 2026-09-06 메뉴판 수동 확인
+  '1294901233': [
+    '아메리카노',
+    '믹스커피',
+    '카페 라떼',
+    '카푸치노',
+    '바닐라 라떼',
+    '헤이즐넛 라떼',
+    '하이슈페너',
+    '카라멜 마끼아또',
+    '카페 모카',
+    { name: '콜드브루', description: '디카페인 선택 가능' },
+    '연유라떼',
+    '흑당 밀크 버블린',
+    '타로 밀크 버블린',
+    '홍차 밀크 버블린',
+    { name: '코코넛', description: '커피 / 밀크 / 망고' },
+    '딸기 라떼',
+    '초코 라떼',
+    '고구마 라떼',
+    '녹차 라떼',
+    '홍차 라떼',
+    '민트초코칩 라떼',
+    '블루베리 라떼',
+    '미숫가루 라떼',
+    '플레인 요거트 스무디',
+    '딸기 요거트 스무디',
+    '망고 요거트 스무디',
+    '블루베리 요거트 스무디',
+    '녹차 프라페',
+    '자바초코칩 프라페',
+    '민트초코칩 프라페',
+    '폭탄초코 프라페',
+    '쿠키 & 크림 프라페',
+    '딸기 스노잉',
+    '망고 스노잉',
+    '블루베리 스노잉',
+    '바다 소금 커피',
+    '바다 소금 라떼',
+    '청포도 에이드',
+    '자몽 에이드',
+    '블루레몬 에이드',
+    '아이스티 복숭아',
+    '캐모마일',
+    '페퍼민트',
+    '루이보스',
+    '얼그레이',
+    '실론',
+    '자몽차',
+    '레몬차',
+    '유자차',
+  ],
+  // 매머드익스프레스 삼육대후문점 — 2026-09-07 메뉴판 수동 확인
+  '2099566534': [
+    { name: '아메리카노', description: 'S / M / L' },
+    { name: '꿀 커피', description: 'S / M / L' },
+    { name: '카페 라떼', description: 'S / M / L' },
+    { name: '헤이즐넛 커피', description: 'S / M' },
+    { name: '헤이즐넛 라떼', description: 'S / M' },
+    { name: '헤이즐넛 모카', description: 'M' },
+    { name: '베트남 연유 커피', description: 'S / M' },
+    { name: '바나나 달달 커피', description: 'S / M' },
+    { name: '꿀/바닐라/아몬드 라떼', description: 'S / M / L' },
+    { name: '카페 모카', description: 'S / M / L' },
+    { name: '믹스커피', description: 'M' },
+    { name: '솔티드 카라멜 마키아토', description: 'S / M / L' },
+    { name: '아샷추 복숭아 아이스티', description: 'M / L' },
+    { name: '아인슈페너 커피', description: 'S' },
+    { name: '아인슈페너 라떼', description: 'S' },
+    { name: '바닐라 크럼블 아이스크림 라떼', description: 'S' },
+    { name: '콜드브루', description: 'S / M / L' },
+    { name: '콜드브루 라떼', description: 'S / M / L' },
+    { name: '돌체 콜드브루 라떼', description: 'S / M / L' },
+    { name: '레몬 토닉 콜드브루', description: 'M' },
+    { name: '달고나 콜드브루 라떼', description: 'M' },
+    { name: '초코 라떼', description: 'S / M / L' },
+    { name: '고구마 라떼', description: 'S / M / L' },
+    { name: '그린티 라떼', description: 'S / M / L' },
+    { name: '토피넛 라떼', description: 'S / M / L' },
+    { name: '곡물 라떼', description: 'M' },
+    { name: '로얄 밀크티', description: 'M / L' },
+    { name: '아몬드 밀크티', description: 'M / L' },
+    { name: '달고나 라떼', description: 'M / L' },
+    { name: '딸기 라떼', description: 'M' },
+    { name: '포도 사과젤리 크러쉬', description: 'M' },
+    { name: '플레인 요거트 스무디', description: 'M' },
+    { name: '요거트 스무디 (딸기/블루베리)', description: 'M' },
+    { name: '밀크 쉐이크', description: 'M' },
+    {
+      name: '밀크 쉐이크 (딸기/솔티드 카라멜/피넛버터/초코)',
+      description: 'M',
+    },
+    { name: '곡물 쉐이크', description: 'M' },
+    { name: '리얼 스무디 (망고/배/복숭아)', description: 'M' },
+    { name: '콜드브루 커피 프라페', description: 'M' },
+    { name: '프라페 (자바칩/피스타치오 아몬드/민트 초코)', description: 'M' },
+    {
+      name: '프라페 (오레오 초코/그린티/초코/바나나 초코칩)',
+      description: 'M',
+    },
+    { name: '딸기 쿠키 프라페', description: 'M' },
+    { name: '유자 티/에이드', description: 'M / L' },
+    { name: '인크레드불', description: 'M' },
+    { name: '아이스티 (복숭아/제로 복숭아)', description: 'M / L' },
+    { name: '청포도 에이드', description: 'M' },
+    { name: '티 (레몬밤 민트/히비스커스 유자)', description: 'M' },
+    { name: '티/에이드 (한라봉/자몽/청귤/블루레몬)', description: 'M' },
+    { name: '에이드 (제로 체리콕/깔라만시)', description: 'M / L' },
+    { name: '장수 오미자 티/에이드', description: 'M / L' },
+    { name: '자몽 허니 블랙티', description: 'M' },
+    { name: '지리산 청매실티', description: 'M' },
+    { name: '매머드 에이드 (자몽+오렌지+레몬)', description: 'L' },
+    { name: '티 (얼그레이/레몬&오렌지/캐모마일/페퍼민트)', description: 'M' },
+    {
+      name: '티 (머스캣 그린/오렌지 루이보스/애플 히비스커스)',
+      description: 'M',
+    },
+    { name: '전통차 (애플 모과/나주 배숙/쌍화)', description: 'M' },
+    { name: '주스 (수박/파인애플)', description: 'M' },
+  ],
+  // 하늘지기 — 2026-09-05 메뉴판 수동 확인
+  '18205789': [
+    '하늘정식 (치킨까스+쫄면+주먹밥)',
+    '돈정식 (돈까스+쫄면+주먹밥)',
+    '치킨까스',
+    '돈까스',
+    '콩까스',
+    '치즈돈까스',
+    '생선까스',
+    '김치찌개',
+    '참치김치찌개',
+    '들깨순두부찌개',
+    '버섯순두부찌개',
+    '청국장',
+    '부대찌개',
+    '된장찌개',
+    '제육덮밥',
+    '치즈닭철판',
+    '소고기불고기',
+    '돌솥비빔밥',
+    '비빔밥',
+    '김치볶음밥',
+    '오므라이스',
+    '치킨도리아',
+    '쫄면',
+    '우동',
+    '라면',
+  ],
+  // 중국관 — 2026-09-05 메뉴판 수동 확인
+  '17870463': [
+    '짜장면',
+    '쟁반볶음짜장',
+    '간짜장',
+    '짬뽕',
+    '쟁반볶음짬뽕',
+    '우동',
+    '울면',
+    '볶음밥',
+    '매운볶음밥',
+    '짜장밥',
+    '잡채밥',
+    '소고기덮밥',
+    '고추덮밥',
+    '버섯덮밥',
+    '짬뽕밥',
+    '우동밥',
+    '치킨탕수육 대',
+    '치킨탕수육 중',
+    '치킨탕수육 소',
+    '버섯탕수육 대',
+    '버섯탕수육 중',
+    '버섯탕수육 소',
+    '소고기탕수육 대',
+    '소고기탕수육 중',
+    '소고기탕수육 소',
+    '깐풍기',
+    '라조기',
+    '군만두',
+    '야채춘권',
+    '지마구',
+    '사모사',
+    '양지쌀국수',
+    '빙수냉면',
+    '콩국수',
+  ],
+  // 꿈꾸는떡볶이 — 2026-09-05 메뉴판 수동 확인
+  '36314561': [
+    '즉석모듬(2~3인분)',
+    '즉석떡볶이(기본)',
+  ],
+  // 세상만사 감자탕 — 2026-09-05 메뉴판 수동 확인
+  '1743715551': [
+    '전골(황) 대',
+    '전골(황) 중',
+    '전골(황) 소',
+    '뼈찜 대',
+    '뼈찜 중',
+    '뼈찜 소',
+    '뼈해장국',
+    '뼈특해장국',
+    '순대국',
+    '돈까스',
+    '소내장탕',
+  ],
+}
+
+const manualMenuAdditionsByPlaceId: Record<string, ManualMenuEntry[]> = {
+  // 스마일하우스 — 2026-09-06 메뉴판 수동 확인
+  '471259985': [
+    { name: '복숭아 아이스티', description: 'L / XL' },
+    { name: '레몬 아이스티', description: 'L / XL' },
+    { name: '체리에이드', description: 'L / XL' },
+    { name: '노을에이드(라즈베리)', description: 'L / XL' },
+    { name: '바다에이드(라임)', description: 'L / XL' },
+    { name: '레모네이드', description: 'L / XL' },
+    { name: '자몽에이드', description: 'L / XL' },
+    { name: '청포도에이드', description: 'L / XL' },
+    { name: '블루 레모네이드', description: 'L / XL' },
+    '유자 애플티',
+    '자몽 블랙티',
+    { name: '유자차', description: 'M / L' },
+    { name: '레몬티', description: 'M / L' },
+    { name: '한라봉 오미자차', description: 'M / L' },
+    {
+      name: '홍차',
+      description: '얼그레이 / 잉글리시 브렉퍼스트 · M / XL',
+    },
+    {
+      name: '허브 티',
+      description: '캐모마일 / 루이보스 바닐라 / 페퍼민트 · M / XL',
+    },
+    { name: '초코 라떼', description: 'M / L' },
+    { name: '헤즐넛 초코 라떼', description: 'M / L' },
+    { name: '녹차 라떼', description: 'M / L' },
+    { name: '오곡 라떼', description: 'M / L' },
+    { name: '블루베리 라떼', description: 'M / L' },
+    { name: '흑당 밀크티', description: 'M / L' },
+    { name: '연유 밀크티', description: 'M / L' },
+    { name: '더블 초콜릿', description: 'M / L' },
+    { name: '토피넛 초콜릿', description: 'M / L' },
+    { name: '민트 초콜릿', description: 'M / L' },
+    { name: '고구마 라떼', description: 'M / L' },
+    { name: '로열 밀크티', description: 'M / L' },
+  ],
+  // 스마일 닭갈비 — 2026-09-05 혼밥 정식 메뉴판 수동 확인
+  '1701488248': [
+    '스팸김치덮밥',
+    '참치김치덮밥',
+    '삼고비',
+    '참고비',
+    '제육덮밥',
+    '치코밥',
+    '뚝배기 참치김치찌개정식',
+    '뚝배기 스팸김치찌개정식',
+    '차돌 육개장라면 정식',
+    '닭갈비 정식',
+    '삼겹살 정식',
+  ],
+}
+
+function menuItem(entry: ManualMenuEntry): UnclassifiedNaverMenuItem {
+  const name = typeof entry === 'string' ? entry : entry.name
+  return {
+    name,
+    price: null,
+    priceType: null,
+    description: typeof entry === 'string' ? null : entry.description ?? null,
+    imageUrl: null,
+    recommended: false,
+  }
+}
+
+function menuKey(name: string): string {
+  return name.normalize('NFKC').replace(/\s+/g, '').toLocaleLowerCase('ko-KR')
+}
+
+export function applyManualMenuOverride(
+  placeId: string,
+  scrapedMenus: UnclassifiedNaverMenuItem[],
+): {
+  menus: UnclassifiedNaverMenuItem[]
+  applied: boolean
+  mode: 'replacement' | 'addition' | null
+} {
+  const replacementNames = manualMenuReplacementsByPlaceId[placeId]
+  if (replacementNames) {
+    return { menus: replacementNames.map(menuItem), applied: true, mode: 'replacement' }
+  }
+
+  const additionEntries = manualMenuAdditionsByPlaceId[placeId]
+  if (!additionEntries) return { menus: scrapedMenus, applied: false, mode: null }
+
+  const manualItems = new Map(
+    additionEntries.map((entry) => {
+      const item = menuItem(entry)
+      return [menuKey(item.name), item]
+    }),
+  )
+  const mergedMenus = scrapedMenus.map((menu) => manualItems.get(menuKey(menu.name)) ?? menu)
+  const existingKeys = new Set(scrapedMenus.map((menu) => menuKey(menu.name)))
+  manualItems.forEach((item, key) => {
+    if (!existingKeys.has(key)) mergedMenus.push(item)
+  })
+
+  return { menus: mergedMenus, applied: true, mode: 'addition' }
+}
