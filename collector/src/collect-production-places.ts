@@ -23,7 +23,7 @@ function askQuestion(query: string): Promise<string> {
 }
 
 const collectorRoot = resolve(__dirname, '..')
-const dataDirectory = resolve(collectorRoot, 'data')
+const dataDirectory = resolve(collectorRoot, '..')
 const placesFilePath = resolve(dataDirectory, 'places.production.json')
 const temporaryPlacesFilePath = `${placesFilePath}.tmp`
 const backGate = { x: 127.10926224864942, y: 37.64384622248226 }

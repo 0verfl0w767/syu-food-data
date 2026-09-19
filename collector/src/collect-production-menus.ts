@@ -9,7 +9,7 @@ import { parseNaverMenus, RawNaverMenu } from './menu-mapper'
 import { ProductionMenusFile, ProductionPlacesFile } from './types'
 
 const collectorRoot = resolve(__dirname, '..')
-const dataDirectory = resolve(collectorRoot, 'data')
+const dataDirectory = resolve(collectorRoot, '..')
 const placesFilePath = resolve(dataDirectory, 'places.production.json')
 const menusFilePath = resolve(dataDirectory, 'menus.production.json')
 const temporaryMenusFilePath = `${menusFilePath}.tmp`

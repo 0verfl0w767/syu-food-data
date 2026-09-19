@@ -18,7 +18,7 @@ import {
   ProductionReviewsFile,
 } from './types'
 
-const dataDirectory = resolve(__dirname, '..', 'data')
+const dataDirectory = resolve(__dirname, '..', '..')
 
 function assert(condition: unknown, message: string): asserts condition {
   if (!condition) throw new Error(message)

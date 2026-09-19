@@ -7,7 +7,7 @@ import { parseNaverVisitorReviewTexts } from './review-mapper'
 import { ProductionPlacesFile, ProductionReviewsFile } from './types'
 
 const collectorRoot = resolve(__dirname, '..')
-const dataDirectory = resolve(collectorRoot, 'data')
+const dataDirectory = resolve(collectorRoot, '..')
 const placesFilePath = resolve(dataDirectory, 'places.production.json')
 const reviewsFilePath = resolve(dataDirectory, 'reviews.production.json')
 const temporaryReviewsFilePath = `${reviewsFilePath}.tmp`

@@ -5,7 +5,7 @@ import { applyManualMenuOverride } from './manual-menu-overrides'
 import { classifyMenus } from './menu-classifier'
 import { ProductionMenusFile, ProductionPlacesFile } from './types'
 
-const dataDirectory = resolve(__dirname, '..', 'data')
+const dataDirectory = resolve(__dirname, '..', '..')
 const placesFilePath = resolve(dataDirectory, 'places.production.json')
 const menusFilePath = resolve(dataDirectory, 'menus.production.json')
 const temporaryMenusFilePath = `${menusFilePath}.tmp`
