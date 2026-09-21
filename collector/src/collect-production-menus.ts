@@ -5,7 +5,7 @@ import { chromium } from 'playwright-core'
 import { resolveChromeExecutablePath } from './chrome-runtime'
 import { applyManualMenuOverride } from './manual-menu-overrides'
 import { classifyMenus } from './menu-classifier'
-import { parseNaverMenus, RawNaverMenu } from './menu-mapper'
+import { normalizeMenuPrice, parseNaverMenus, RawNaverMenu } from './menu-mapper'
 import { ProductionMenusFile, ProductionPlacesFile } from './types'
 
 const collectorRoot = resolve(__dirname, '..')
@@ -33,7 +33,8 @@ async function main() {
         menus: [],
         menuImageAvailable: false,
       }
-      const manualResult = applyManualMenuOverride(place.id, existingPlaceMenus.menus)
+      const normalizedMenus = existingPlaceMenus.menus.map(normalizeMenuPrice)
+      const manualResult = applyManualMenuOverride(place.id, normalizedMenus)
 
       return [
         place.id,

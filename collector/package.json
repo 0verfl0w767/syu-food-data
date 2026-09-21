@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "test": "ts-node src/menu-mapper.test.ts",
     "typecheck": "tsc --noEmit",
     "collect:places": "ts-node src/collect-production-places.ts",
     "collect:reviews": "ts-node src/collect-production-reviews.ts",

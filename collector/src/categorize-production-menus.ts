@@ -3,6 +3,7 @@ import { resolve } from 'node:path'
 
 import { applyManualMenuOverride } from './manual-menu-overrides'
 import { classifyMenus } from './menu-classifier'
+import { normalizeMenuPrice } from './menu-mapper'
 import { ProductionMenusFile, ProductionPlacesFile } from './types'
 
 const dataDirectory = resolve(__dirname, '..', '..')
@@ -18,7 +19,8 @@ async function main() {
     const placeMenus = menuData.places[place.id]
     if (!placeMenus) return
 
-    const manualResult = applyManualMenuOverride(place.id, placeMenus.menus)
+    const normalizedMenus = placeMenus.menus.map(normalizeMenuPrice)
+    const manualResult = applyManualMenuOverride(place.id, normalizedMenus)
     placeMenus.menus = classifyMenus(manualResult.menus, {
       placeName: place.name,
       placeCategory: place.category,

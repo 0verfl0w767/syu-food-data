@@ -3,6 +3,7 @@ import { resolve } from 'node:path'
 
 import { applyManualMenuOverride } from './manual-menu-overrides'
 import { classifyMenus } from './menu-classifier'
+import { MAX_MENU_PRICE_WON, normalizeMenuPrice } from './menu-mapper'
 import {
   COLLECTION_RADIUS_METERS,
   EXCLUDED_PLACE_IDS,
@@ -106,16 +107,22 @@ async function main() {
 
   let totalMenus = 0
   let placesWithMenus = 0
+  let menusWithoutPublishedPrice = 0
+  let variableOrFreeMenus = 0
+  const missingPricesByPlace: Array<{
+    placeName: string
+    missing: number
+    total: number
+    variableOrFree: number
+  }> = []
   menuIds.forEach((placeId) => {
     const placeMenus = menus.places[placeId]
     const place = places.documents.find((candidate) => candidate.id === placeId)
-    assert(
-      placeMenus.placeName === place?.name,
-      `Menu place name does not match for ${placeId}`,
-    )
+    assert(placeMenus.placeName === place?.name, `Menu place name does not match for ${placeId}`)
     assert(Array.isArray(placeMenus.menus), `Menus for ${placeId} must be an array`)
     assert(placeMenus.menus.length <= 300, `Place ${placeId} contains too many menus`)
-    const manualResult = applyManualMenuOverride(placeId, placeMenus.menus)
+    const normalizedMenus = placeMenus.menus.map(normalizeMenuPrice)
+    const manualResult = applyManualMenuOverride(placeId, normalizedMenus)
     const classifiedManualMenus = classifyMenus(manualResult.menus, {
       placeName: place?.name ?? '',
       placeCategory: place?.category ?? '',
@@ -130,7 +137,8 @@ async function main() {
         `Invalid menu name for ${placeId}`,
       )
       assert(
-        menu.price === null || (Number.isFinite(menu.price) && menu.price >= 0),
+        menu.price === null ||
+          (Number.isInteger(menu.price) && menu.price >= 0 && menu.price <= MAX_MENU_PRICE_WON),
         `Invalid menu price for ${placeId}`,
       )
       assert(
@@ -142,6 +150,21 @@ async function main() {
         `Invalid menu cuisine for ${placeId}: ${menu.cuisine}`,
       )
     })
+    const missingMenus = placeMenus.menus.filter((menu) => menu.price === null)
+    const variableOrFree = missingMenus.filter((menu) =>
+      ['amountrange', 'dynamic', 'free'].includes(menu.priceType?.toLowerCase() ?? ''),
+    ).length
+    const unpublished = missingMenus.length - variableOrFree
+    menusWithoutPublishedPrice += unpublished
+    variableOrFreeMenus += variableOrFree
+    if (missingMenus.length > 0) {
+      missingPricesByPlace.push({
+        placeName: placeMenus.placeName,
+        missing: unpublished,
+        total: placeMenus.menus.length,
+        variableOrFree,
+      })
+    }
     totalMenus += placeMenus.menus.length
     if (placeMenus.menus.length > 0) placesWithMenus += 1
   })
@@ -159,6 +182,19 @@ async function main() {
     `Validated ${placeIds.length} places, ${totalReviews} reviews, and ${totalMenus} menus ` +
       `(${placesWithReviews} places with review text, ${placesWithMenus} with menus).`,
   )
+  console.log(
+    `Price coverage: ${totalMenus - menusWithoutPublishedPrice - variableOrFreeMenus}/` +
+      `${totalMenus} fixed prices; ${menusWithoutPublishedPrice} unpublished, ` +
+      `${variableOrFreeMenus} variable/range/free.`,
+  )
+  missingPricesByPlace
+    .sort((a, b) => b.missing - a.missing || b.variableOrFree - a.variableOrFree)
+    .forEach(({ placeName, missing, total, variableOrFree }) => {
+      console.log(
+        `  - ${placeName}: ${missing}/${total} unpublished` +
+          (variableOrFree > 0 ? `, ${variableOrFree} variable/range/free` : ''),
+      )
+    })
 }
 
 main().catch((error) => {

@@ -15,6 +15,7 @@ export const EXCLUDED_PLACE_IDS = new Set([
   '1219721809', // 서진푸드
   '1710041566', // 과수원
   '36877832', // AM1122CAKE
+  '1015610634', // YOGI YOGURT
 ])
 
 export const EXCLUDED_PLACE_NAMES = new Set([
@@ -25,6 +26,7 @@ export const EXCLUDED_PLACE_NAMES = new Set([
   '서진푸드',
   '과수원',
   'AM1122CAKE',
+  'YOGI YOGURT',
 ])
 
 export function isExcludedPlace(place: Pick<NaverPlaceDocument, 'id' | 'name'>): boolean {
